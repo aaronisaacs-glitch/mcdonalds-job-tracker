@@ -83,6 +83,13 @@ def main():
     # category (e.g. "Full Time", "Part Time"). Starts as an empty
     # dictionary and grows as we loop through every job.
     by_contract_type = {}
+
+    # Separately tallies jobs where contract_type is missing entirely, or
+    # present but blank (an empty string). This answers "how many jobs
+    # have no contract type recorded at all" -- distinct from Full Time
+    # or Part Time, and distinct from a job missing a jd_url.
+    missing_contract_type = 0
+
     for job in jobs:
         # job.get("contract_type", "Unknown") looks up the contract_type
         # field, and falls back to the string "Unknown" if that field
@@ -95,6 +102,21 @@ def main():
         # current count for this type, or start at 0 if we haven't seen
         # it before."
         by_contract_type[ct] = by_contract_type.get(ct, 0) + 1
+
+        # We only count a job toward "missing contract type" if it's
+        # otherwise a real, published listing (i.e. it has a jd_url) --
+        # this keeps missing_contract_type consistent with total_jobs,
+        # which uses the same jd_url requirement. Without this check,
+        # incomplete records with no jd_url at all could inflate this
+        # count with entries that wouldn't be treated as "jobs" anywhere
+        # else in this script.
+        # job.get("contract_type") here (no default) returns None if the
+        # field is missing entirely. "not job.get(...)" is also True if
+        # the field exists but is an empty string "" -- so this catches
+        # both "field absent" and "field present but blank" as the same
+        # thing: no usable contract type recorded.
+        if job.get("jd_url") and not job.get("contract_type"):
+            missing_contract_type += 1
 
     # --- Step 4: Build the timestamp for this run --------------------------
     # Captures the exact current date/time in UTC, in a standard
@@ -120,16 +142,18 @@ def main():
         # against a fresh repo (when the CSV doesn't exist yet) -- writes
         # the column headers as the first row of the file.
         if not file_exists:
-            writer.writerow(["timestamp_utc", "total_jobs", "full_time", "part_time"])
+            writer.writerow(["timestamp_utc", "total_jobs", "full_time", "part_time", "missing_contract_type"])
 
         # Writes the actual data row for this run: when it ran, the total
-        # job count, and the full-time/part-time breakdown. .get(..., 0)
+        # job count, the full-time/part-time breakdown, and how many jobs
+        # had no contract_type recorded at all. .get(..., 0)
         # defaults to 0 if that contract type had zero matches this run.
         writer.writerow([
             timestamp,
             total_jobs,
             by_contract_type.get("Full Time", 0),
             by_contract_type.get("Part Time", 0),
+            missing_contract_type,
         ])
 
     # --- Step 6: Write the "current snapshot" detail table -----------------
@@ -147,8 +171,12 @@ def main():
         # full_time/part_time are 1-or-0 flag columns -- summing THESE
         # gives you the full-time/part-time breakdown directly, without
         # needing to filter or group by a separate contract_type column
-        # in Looker.
-        writer.writerow(["jd_url", "value", "full_time", "part_time"])
+        # in Looker. missing_contract_type is a third flag column: 1 if
+        # this specific job has no contract_type recorded, 0 otherwise --
+        # so you can build a table in Looker filtered to
+        # missing_contract_type = 1 and see exactly which job URLs are
+        # affected, not just a total count.
+        writer.writerow(["jd_url", "value", "full_time", "part_time", "missing_contract_type"])
 
         # One row per live job. We loop through every job again (same
         # jobs list from Step 1), and for each one that has a jd_url,
@@ -171,7 +199,14 @@ def main():
                 full_time_flag = int(ct == "Full Time")
                 part_time_flag = int(ct == "Part Time")
 
-                writer.writerow([jd_url, 1, full_time_flag, part_time_flag])
+                # "not ct" is True when ct is an empty string (the
+                # fallback above) -- meaning contract_type was either
+                # absent or blank for this specific job. int(...) turns
+                # that True/False into 1/0, same pattern as the flags
+                # above.
+                missing_flag = int(not ct)
+
+                writer.writerow([jd_url, 1, full_time_flag, part_time_flag, missing_flag])
 
     # --- Step 7: Print a confirmation line ---------------------------------
     # This text shows up in the GitHub Actions run log, so you can open
