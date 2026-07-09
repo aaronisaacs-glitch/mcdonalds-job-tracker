@@ -1,0 +1,99 @@
+# job-count.yml
+#
+# PURPOSE:
+# This file lives in .github/workflows/ inside your repo. GitHub
+# automatically watches that folder -- any .yml file placed there
+# becomes an automated "workflow" that GitHub's own servers will run
+# for you, on your behalf, without your computer needing to be on.
+#
+# This particular workflow runs count_jobs.py every hour and saves
+# the result back into the repo.
+
+# A human-readable name for this workflow. This is what shows up in
+# the "Actions" tab of your repo so you can identify it at a glance.
+name: Hourly Job Count
+
+# "on:" defines WHEN this workflow should run. There are two triggers
+# configured below.
+on:
+  # This is the automatic, recurring trigger.
+  schedule:
+    # Cron syntax: minute hour day month day-of-week
+    # '0 * * * *' means: at minute 0, of every hour, every day,
+    # every month, every day of the week -- i.e. "run once per hour,
+    # on the hour." All GitHub Actions schedules run in UTC time.
+    - cron: '0 * * * *'
+
+  # This adds a manual "Run workflow" button in the Actions tab, so
+  # you can trigger a test run yourself at any time without waiting
+  # for the next scheduled hour. The {} just means "no extra inputs
+  # needed to trigger it manually."
+  workflow_dispatch: {}
+
+# "jobs:" defines what actually happens when this workflow is
+# triggered. A workflow can have multiple jobs; we only need one.
+jobs:
+  # A short internal ID for this job (you choose the name). Referenced
+  # only within this file, not shown prominently in the UI.
+  count-jobs:
+    # Tells GitHub which type of virtual machine to run this job on.
+    # "ubuntu-latest" spins up a fresh, temporary Linux machine each
+    # time -- it's destroyed again after the job finishes.
+    runs-on: ubuntu-latest
+
+    # "steps:" is the ordered list of actions this job performs, top
+    # to bottom, on that freshly created virtual machine.
+    steps:
+
+      # STEP 1: Check out (download) your repo's files onto this
+      # temporary machine, so the workflow has access to count_jobs.py
+      # and can later save job_counts.csv back into the repo.
+      # "uses:" means "run this pre-built action someone else wrote" --
+      # actions/checkout is an official GitHub action for exactly this.
+      - uses: actions/checkout@v4
+
+      # STEP 2: Install Python onto this temporary machine, since it
+      # doesn't come with Python pre-installed in a specific version.
+      # We're pinning it to Python 3.11 so behaviour stays consistent
+      # over time even if GitHub updates their default image.
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # STEP 3: Install the "requests" library, since count_jobs.py
+      # needs it to make the HTTP call to the job feed, and it isn't
+      # part of Python's built-in standard library.
+      # "run:" means "execute this shell command directly" (as opposed
+      # to "uses:", which runs someone else's pre-built action).
+      - run: pip install requests
+
+      # STEP 4: Actually run our script. This is the step that
+      # fetches the feed, counts the jobs, and writes/updates
+      # job_counts.csv on this temporary machine's disk.
+      - run: python count_jobs.py
+
+      # STEP 5: Save the updated CSV permanently by committing it back
+      # into the actual GitHub repository. Without this step, the
+      # updated file would simply be thrown away when the temporary
+      # machine is destroyed at the end of the job.
+      - name: Commit updated CSV
+        run: |
+          # Sets a name/email for this automated commit, so it's
+          # clearly identifiable as a bot-generated change in your
+          # repo's history, not a real person's commit.
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          # Stages the CSV file (marks it as ready to be committed).
+          git add job_counts.csv
+
+          # Commits the staged change with a timestamped message.
+          # The "|| echo 'No changes to commit'" part means: if there's
+          # genuinely nothing new to commit (e.g. the script failed
+          # silently and produced no new row), don't let the whole
+          # workflow fail with an error -- just print a note instead.
+          git commit -m "Update job count $(date -u)" || echo "No changes to commit"
+
+          # Pushes the new commit back up to GitHub, making the
+          # updated job_counts.csv visible in the actual repository.
+          git push
