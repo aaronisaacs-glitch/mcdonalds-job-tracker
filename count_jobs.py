@@ -45,11 +45,11 @@ FEED_URL = "https://jims.thirtythree.co.uk/clients/21/sites/41/algolia"
 OUTPUT_CSV = "job_counts.csv"
 
 # This second file is OVERWRITTEN completely every run (not appended).
-# It holds one row per currently-live job (jd_url + a value of 1), so
-# SUM(value) in Looker always equals "how many jobs are live right now."
-# Overwriting (rather than appending) is deliberate: if we appended,
-# the same still-live job would be logged again every hour it stays
-# posted, and summing "value" would count job-hours, not live jobs.
+# It holds one row per currently-live job (jd_url, value, and a
+# full_time/part_time flag), so SUM(value) in Looker always equals
+# "how many jobs are live right now," and SUM(full_time) /
+# SUM(part_time) give you a breakdown without needing a dimension
+# filter in Looker.
 CURRENT_JOBS_CSV = "current_jobs.csv"
 
 
@@ -143,19 +143,35 @@ def main():
         writer = csv.writer(f)
 
         # Header row: jd_url is the dimension you'll use in a Looker
-        # table; value is the metric you'll SUM() for the KPI number.
-        writer.writerow(["jd_url", "value"])
+        # table; value is the metric you'll SUM() for the overall KPI.
+        # full_time/part_time are 1-or-0 flag columns -- summing THESE
+        # gives you the full-time/part-time breakdown directly, without
+        # needing to filter or group by a separate contract_type column
+        # in Looker.
+        writer.writerow(["jd_url", "value", "full_time", "part_time"])
 
         # One row per live job. We loop through every job again (same
         # jobs list from Step 1), and for each one that has a jd_url,
-        # write that URL alongside a fixed value of 1. Summing this
-        # "value" column in Looker across all rows gives you the total
-        # live job count -- identical logic to total_jobs above, just
-        # expressed as individual rows instead of one number.
+        # write that URL, a fixed value of 1, and then work out its
+        # contract type flags.
         for job in jobs:
             jd_url = job.get("jd_url")
             if jd_url:
-                writer.writerow([jd_url, 1])
+                # Looks up this job's contract type (falls back to an
+                # empty string if missing, so the comparisons below
+                # simply evaluate to False rather than crashing).
+                ct = job.get("contract_type", "")
+
+                # int(condition) turns True/False into 1/0 -- so
+                # full_time becomes 1 only when contract_type is
+                # exactly "Full Time", otherwise 0. Same logic for
+                # part_time below. This one-hot-style encoding is what
+                # lets you SUM(full_time) or SUM(part_time) directly
+                # as a metric in Looker.
+                full_time_flag = int(ct == "Full Time")
+                part_time_flag = int(ct == "Part Time")
+
+                writer.writerow([jd_url, 1, full_time_flag, part_time_flag])
 
     # --- Step 7: Print a confirmation line ---------------------------------
     # This text shows up in the GitHub Actions run log, so you can open
