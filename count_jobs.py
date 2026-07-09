@@ -39,7 +39,18 @@ FEED_URL = "https://jims.thirtythree.co.uk/clients/21/sites/41/algolia"
 # The name of the CSV file this script writes to. Because no folder path
 # is given, it will be created/updated in the same directory the script
 # runs from (the root of the repo, when run via GitHub Actions).
+# This file is APPENDED to every run -- it's the hourly trend line
+# (one summary row per hour, growing forever), used for a KPI-over-time
+# chart in Looker.
 OUTPUT_CSV = "job_counts.csv"
+
+# This second file is OVERWRITTEN completely every run (not appended).
+# It holds one row per currently-live job (jd_url + a value of 1), so
+# SUM(value) in Looker always equals "how many jobs are live right now."
+# Overwriting (rather than appending) is deliberate: if we appended,
+# the same still-live job would be logged again every hour it stays
+# posted, and summing "value" would count job-hours, not live jobs.
+CURRENT_JOBS_CSV = "current_jobs.csv"
 
 
 def main():
@@ -121,7 +132,32 @@ def main():
             by_contract_type.get("Part Time", 0),
         ])
 
-    # --- Step 6: Print a confirmation line ---------------------------------
+    # --- Step 6: Write the "current snapshot" detail table -----------------
+    # This is the table you'll point Looker at for a job-level breakdown
+    # and a live KPI. Unlike job_counts.csv above, we open this file in
+    # "w" (write) mode, not "a" (append) mode -- "w" means "erase
+    # whatever was in this file before, and start fresh." That's what
+    # makes this a true snapshot of *right now* rather than a growing
+    # history.
+    with open(CURRENT_JOBS_CSV, "w", newline="") as f:
+        writer = csv.writer(f)
+
+        # Header row: jd_url is the dimension you'll use in a Looker
+        # table; value is the metric you'll SUM() for the KPI number.
+        writer.writerow(["jd_url", "value"])
+
+        # One row per live job. We loop through every job again (same
+        # jobs list from Step 1), and for each one that has a jd_url,
+        # write that URL alongside a fixed value of 1. Summing this
+        # "value" column in Looker across all rows gives you the total
+        # live job count -- identical logic to total_jobs above, just
+        # expressed as individual rows instead of one number.
+        for job in jobs:
+            jd_url = job.get("jd_url")
+            if jd_url:
+                writer.writerow([jd_url, 1])
+
+    # --- Step 7: Print a confirmation line ---------------------------------
     # This text shows up in the GitHub Actions run log, so you can open
     # any past run and see at a glance what it counted, without needing
     # to open the CSV itself.
