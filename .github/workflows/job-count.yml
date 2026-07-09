@@ -84,10 +84,13 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          # Stages the CSV file (marks it as ready to be committed).
-          git add job_counts.csv
+          # Stages both output files (marks them as ready to be
+          # committed). job_counts.csv is the appended hourly trend
+          # file; current_jobs.csv is the overwritten live-snapshot
+          # detail table.
+          git add job_counts.csv current_jobs.csv
 
-          # Commits the staged change with a timestamped message.
+          # Commits the staged changes with a timestamped message.
           # The "|| echo 'No changes to commit'" part means: if there's
           # genuinely nothing new to commit (e.g. the script failed
           # silently and produced no new row), don't let the whole
