@@ -175,8 +175,11 @@ def main():
         # this specific job has no contract_type recorded, 0 otherwise --
         # so you can build a table in Looker filtered to
         # missing_contract_type = 1 and see exactly which job URLs are
-        # affected, not just a total count.
-        writer.writerow(["jd_url", "value", "full_time", "part_time", "missing_contract_type"])
+        # affected, not just a total count. town_city is the job's
+        # location, pulled straight from the feed -- useful as a
+        # dimension in Looker to break down jobs (or the flags above)
+        # by region.
+        writer.writerow(["jd_url", "value", "full_time", "part_time", "missing_contract_type", "town_city"])
 
         # One row per live job. We loop through every job again (same
         # jobs list from Step 1), and for each one that has a jd_url,
@@ -206,7 +209,13 @@ def main():
                 # above.
                 missing_flag = int(not ct)
 
-                writer.writerow([jd_url, 1, full_time_flag, part_time_flag, missing_flag])
+                # Looks up the town_city field directly from the feed.
+                # Falls back to "Unknown" if a job is somehow missing
+                # this field, so Looker gets a clean, filterable value
+                # instead of a blank cell.
+                town_city = job.get("town_city", "Unknown")
+
+                writer.writerow([jd_url, 1, full_time_flag, part_time_flag, missing_flag, town_city])
 
     # --- Step 7: Print a confirmation line ---------------------------------
     # This text shows up in the GitHub Actions run log, so you can open
