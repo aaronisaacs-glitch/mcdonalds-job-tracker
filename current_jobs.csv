@@ -360,9 +360,13 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1715@54.3429673,-7.6287604/co-fermanagh/full-time-staff-member-enniskillen/pdx-mc-397dafd8-9a25-406a-8dd0-5e9a87ff9d47-105643",1,1,0,0,Co. Fermanagh
 "/job-search/restaurant-1122@55.0112554,-7.3149785/county-londonderry/crew-member-full-time-night-shiftovernight/pdx-mc-6887c63d-6fb6-440c-ae55-a5d2414d971c-115794",1,1,0,0,County Londonderry
 "/job-search/restaurant-1563@51.4440709,0.3611198/london/asda-gravesend-mcdonalds-0500am-starts-and-0030-finishes-18-full-and-part-time/pdx-mc-b0f2086f-98af-4581-907b-5baa9af42c14-77275",1,1,0,0,London
-"/job-search/restaurant-529@51.4092096,0.1451832/kent/swanley-mcdonalds-a20-overnight-shifts-anyday/pdx-mc-221a1ed6-9947-4c1e-8508-1c7b171c3d55-77276",1,1,0,0,Kent
+"/job-search/restaurant-928@51.448429,0.2798648/kent/greenhithe-mcdonalds-overnight-shift-age-18-due-to-working-time-regulations/pdx-mc-1802754f-6e1e-4339-bc6b-cce25491e347-77272",1,1,0,0,Kent
+"/job-search/restaurant-928@51.448429,0.2798648/kent/greenhithe-mcdonalds-customer-experience-leader/pdx-mc-2afcace9-b5b6-44ab-86a7-2c90c33b58db-77272",1,1,0,0,Kent
+"/job-search/restaurant-529@51.4092096,0.1451832/kent/swanley-mcdonalds-a20-overnight-shift-18-due-to-working-time-regulations/pdx-mc-221a1ed6-9947-4c1e-8508-1c7b171c3d55-77276",1,1,0,0,Kent
 "/job-search/restaurant-140@51.4423767,0.3690223/kent/gravesend-mcdonalds-customer-experience-leader-dining-area-part-time-fully-flexible-0500am-starts-0030am-finishes-18/pdx-mc-7a478b26-3383-4354-ba5d-c425ba437ede-77274",1,0,1,0,Kent
 "/job-search/restaurant-58@51.4437928,0.2155444/kent/dartford-mcdonalds-closing-shift-1600-0030-18/pdx-mc-55afc009-cff8-462b-a3b2-5ed3b93272b5-77271",1,0,1,0,Kent
+"/job-search/restaurant-950@51.4389731,0.2710697/kent/bluewater-mcdonalds-full-and-part-time-staff/pdx-mc-38603480-eb59-480d-b5f6-40ef1a38bf82-77270",1,1,0,0,Kent
+"/job-search/restaurant-1427@51.4376036,0.2374938/kent/princes-road-dartford-mcdonalds-full-and-part-time-positions/pdx-mc-d7e3303d-ec97-438f-a6dd-8efd330fc6e7-77273",1,1,0,0,Kent
 "/job-search/restaurant-140@51.4423767,0.3690223/kent/gravesend-mcdonalds-0600am-1000am-maintenance-position/pdx-mc-811dc254-cc2a-48cd-91a4-b667d3d3aaf7-77274",1,0,1,0,Kent
 "/job-search/restaurant-384@52.2825189,-1.9306623/worcestershire/customer-care-dining-area-flexible-hours/pdx-mc-d0b79ce3-eb83-4221-bc96-e91a492c6092-77302",1,1,0,0,Worcestershire
 "/job-search/restaurant-494@51.4782213,0.1812055/london/erith-crew-member-part-time/pdx-mc-e3088205-722b-4e20-818b-7ed1dd9fcdac-77340",1,0,0,0,London
@@ -642,6 +646,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-983@52.0430776,-2.732394/herefordshire/delivery-and-outside-maintenance-person-5am-12-noon/pdx-mc-7906071e-ad23-4f7f-8d0b-72202296c421-78077",1,0,1,0,Herefordshire
 "/job-search/restaurant-753@52.0774714,-1.938257/worcestershire/delivery-and-outside-maintenance-person-5am-12-noon/pdx-mc-7906071e-ad23-4f7f-8d0b-72202296c421-78083",1,0,1,0,Worcestershire
 "/job-search/restaurant-1264@52.2899147,-2.1181133/worcestershire/customer-care-droitwich/pdx-mc-9e8c9786-02e5-4568-b419-2dfde8b92583-78113",1,1,0,0,Worcestershire
+"/job-search/restaurant-162@51.6289241,-0.7510784/buckingham/high-street-high-wycombe-crew-member-fullpart-time/pdx-mc-2c70fd9f-1f5a-45d3-b511-ba67a1ff499f-80048",1,1,0,0,Buckingham
 "/job-search/restaurant-1767@52.527935,-2.400723/shropshire/customer-care-full-and-part-time-bridgnorth/pdx-mc-115531c8-4ccd-4f9c-8e08-544f6ebe5d05-110234",1,1,0,0,Shropshire
 "/job-search/restaurant-1767@52.527935,-2.400723/shropshire/crew-member-full-and-part-time-bridgnorth-shropshire/pdx-mc-a11007c4-a74e-48e2-ba98-bac0da46be2f-110234",1,1,0,0,Shropshire
 "/job-search/restaurant-514@51.1610163,1.2899725/kent/staff-member-18-overnight-flexible-hours-whitfield/pdx-mc-6402d04b-a5f5-44be-b704-6b1df35448d2-78312",1,0,1,0,Kent
