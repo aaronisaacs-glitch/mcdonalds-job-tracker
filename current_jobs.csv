@@ -545,8 +545,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1003@50.7107056,-2.4759752/dorset/full-time-staff-member-dorchester/pdx-mc-7cf004d3-1f18-4695-9f2c-13d46cc75b85-77683",1,1,0,0,Dorset
 "/job-search/restaurant-1003@50.7107056,-2.4759752/dorset/full-time-night-staff-member-dorchester/pdx-mc-dc2214c9-93a7-4f79-8c31-6aad62e077a0-77683",1,1,0,0,Dorset
 "/job-search/restaurant-1003@50.7107056,-2.4759752/dorset/full-time-customer-care-dorchester/pdx-mc-3c3003aa-3e55-4229-b059-4dd6d107d86e-77683",1,1,0,0,Dorset
-"/job-search/restaurant-1472@51.2139584,-1.4750546/hampshire/andover-new-street-full-time-staff-member/pdx-mc-de598ee6-f957-473c-9c75-e875caadce17-77694",1,1,0,0,Hampshire
-"/job-search/restaurant-1102@51.0895203,-1.216844/hampshire/millbrook-crew-member-part-time/pdx-mc-b4e55320-3f64-498e-bda5-56050cea66bf-79653",1,1,0,0,Hampshire
 "/job-search/restaurant-471@50.918785,-1.4285055/hampshire/shirley-crew-member-fully-flexible-full-time/pdx-mc-1624eb2b-cede-407a-9315-c7cfd8a1e835-79655",1,1,0,0,Hampshire
 "/job-search/restaurant-832@55.8518921,-4.072444/lanarkshire/full-time-overnight-crew-member-over-18/pdx-mc-29361c70-d860-49c4-ae59-b5d82a38d424-77700",1,1,0,0,Lanarkshire
 "/job-search/restaurant-854@55.8198338,-4.0405886/lanarkshire/delivery-crew-member-scotland/pdx-mc-cee8d3e7-8137-4594-b38b-d39848122700-77701",1,1,0,0,Lanarkshire
@@ -575,6 +573,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1534@54.7300609,-6.2336217/antrim/crew-member-part-time-antrim-northern-ireland/pdx-mc-55486846-e122-46d4-a2fb-391411bddceb-77715",1,0,1,0,Antrim
 "/job-search/restaurant-1534@54.7300609,-6.2336217/antrim/customer-care-assistant-antrim-1534/pdx-mc-55f810f3-2691-4b4c-8803-251dfecc6003-77715",1,1,0,0,Antrim
 "/job-search/restaurant-1770@54.7573089,-6.603373/county-londonderry/crew-member-part-time-magherafelt-northern-ireland/pdx-mc-9e5fd082-9109-43e0-8497-c065f60c916c-105645",1,0,1,0,County Londonderry
+"/job-search/restaurant-783@54.8655957,-6.2806691/county-antrim/crew-member-part-time-ballymena/pdx-mc-690e3007-d741-4fe8-afd4-6a66eb954530-83427",1,0,1,0,County Antrim
 "/job-search/restaurant-783@54.8655957,-6.2806691/county-antrim/crew-member-night-shift-2-per-hour-between-12am-6am-ballymena/pdx-mc-f235f92e-ba64-44dd-a3c8-d8e12300a936-83427",1,1,0,0,County Antrim
 "/job-search/restaurant-474@50.8451106,-0.2487213/west-sussex/part-time-staff-member/pdx-mc-330e0d9d-1b63-462e-b73a-3a0b99ff0f62-77718",1,1,0,0,West Sussex
 "/job-search/restaurant-1608@50.8681685,-0.1239169/east-sussex/full-time-staff-member-brighton-hollingbury/pdx-mc-44fb6c62-646d-401b-a133-67433b4524cc-77717",1,1,0,0,East Sussex
@@ -755,7 +754,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1103@54.5115302,-6.7634659/county-tyrone/team-member-dungannon-full-time-permanent/pdx-mc-0a07a5e8-0122-4c5f-9009-21e0afad5300-82906",1,1,0,0,County Tyrone
 "/job-search/restaurant-1551@57.0635562,-2.1361948/aberdeenshire/portlethen-part-time-crew-member/pdx-mc-771c7870-2c86-43cb-aee2-21bfa9b2bfce-82945",1,0,1,0,Aberdeenshire
 "/job-search/restaurant-398@57.1462857,-2.0991683/aberdeenshire/union-street-part-time-closing-shifts-5pm-5am/pdx-mc-2effb3bb-4e08-4d03-97f0-6a39c51a8229-118206",1,0,1,0,Aberdeenshire
-"/job-search/restaurant-618@57.1777557,-2.1786751/aberdeenshire/mcdonalds-bucksburn-2-shiftsweek-weekends-and-evening-night-4pm-1am-part-time-crew-member/pdx-mc-945f48c1-70c2-4c26-90d5-9b1522521aa3-116082",1,0,1,0,Aberdeenshire
 "/job-search/restaurant-398@57.1462857,-2.0991683/aberdeenshire/union-street-part-time-opening-shifts-from-5am/pdx-mc-513e9c29-a834-4707-ac10-e1b89d9f9c2d-118206",1,0,1,0,Aberdeenshire
 "/job-search/restaurant-1574@52.2864842,-1.5672251/warwickshire/crew-member/pdx-mc-2020aad2-90df-4dd8-b163-f2f6de94cb76-82976",1,1,0,0,Warwickshire
 "/job-search/restaurant-7131@52.8605049,-8.2185733/co-tipperary/crew-member-full-time-nenagh/pdx-mc-271c01b9-0e4f-43f9-8af1-28b71293dd74-83223",1,1,0,0,Co Tipperary
