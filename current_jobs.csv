@@ -273,7 +273,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1649@51.8178114,-4.5031321/carmarthen/crew-member-part-time-tenby-road-st-clears-wales/pdx-mc-7af52daf-a005-468a-a8c4-fe0688c6082a-77155",1,0,1,0,Carmarthen
 "/job-search/restaurant-1712@52.2392953,0.7796166/suffolk/team-member-full-time-suffolk-park-bury-st-edmunds-ip30-9gn/pdx-mc-442220ed-934c-4236-98ac-1ed819d329d0-98294",1,1,0,0,Suffolk
 "/job-search/restaurant-1712@52.2392953,0.7796166/suffolk/part-time-weekends-suffolk-park-bury-st-edmunds-ip30-9gn/pdx-mc-fd1572ea-5cd8-473a-92f1-4741ff20d931-98294",1,0,1,0,Suffolk
-"/job-search/restaurant-1518@52.6028221,1.2197402/norfolk/full-time-crew-member-fully-flexible-availability-required-hethersett/pdx-mc-ca0dbc10-d8fc-42b1-b089-866b0726b155-80816",1,1,0,0,Norfolk
 "/job-search/restaurant-869@52.2834962,-0.7109804/northamptonshire/part-time-customer-care-must-be-available-anytime-on-frisat-sun-wilby-way-wellingborough/pdx-mc-601120bf-68e2-40d8-be12-9c5eaa48e974-77179",1,0,1,0,Northamptonshire
 "/job-search/restaurant-869@52.2834962,-0.7109804/northamptonshire/part-time-crew-member-must-be-available-to-work-anytime-sat-sun-some-evenings-during-the-week-wellingborough-wilby-way/pdx-mc-81316b89-c374-4e43-8cfe-59ddec039996-77179",1,0,1,0,Northamptonshire
 "/job-search/restaurant-869@52.2834962,-0.7109804/northamptonshire/overnight-crew-member-wilby-way-must-be-over-18/pdx-mc-823b9242-3c3b-4494-9edb-d15d75dd5970-77179",1,0,1,0,Northamptonshire
@@ -630,6 +629,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-201@51.5063941,-0.419367/london/crew-member-england-and-wales/pdx-mc-b142c06e-b131-497b-a201-f7aa6f00fc6e-89411",1,1,0,0,London
 "/job-search/restaurant-201@51.5063941,-0.419367/london/crew-member-england-and-wales/pdx-mc-01531ac4-59b4-402c-8bb5-5d8c4521bd66-89411",1,1,0,0,London
 "/job-search/restaurant-455@51.5000368,-0.1335046/london/crew-member-england-and-wales/pdx-mc-01531ac4-59b4-402c-8bb5-5d8c4521bd66-107193",1,1,0,0,London
+"/job-search/restaurant-1495@51.5101728,-0.1309329/london/crew-member-leicester-square-london/pdx-mc-5a0da526-0a30-4cd3-afa5-e6242a284050-78004",1,0,1,0,London
 "/job-search/restaurant-602@51.7822696,0.1089906/essex/the-oaks-retail-park-harlow-full-time-overnight-only-6pm-6am/pdx-mc-78c31024-0731-4e47-ae4d-a630f65859ba-82388",1,1,0,0,Essex
 "/job-search/restaurant-1548@52.1453741,-0.4206587/bedfordshire/customer-care-bedford-elms-park/pdx-mc-0bb1934c-6750-4ac1-bb80-d854fe534c70-109149",1,0,1,0,Bedfordshire
 "/job-search/restaurant-28@51.51649,-0.1308943/london/customer-entertainment-host/pdx-mc-bf403485-9b62-46db-81ba-873ad0fccf6e-78011",1,1,0,0,London
@@ -679,7 +679,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1767@52.527935,-2.400723/shropshire/customer-care-full-and-part-time-bridgnorth/pdx-mc-115531c8-4ccd-4f9c-8e08-544f6ebe5d05-110234",1,1,0,0,Shropshire
 "/job-search/restaurant-1767@52.527935,-2.400723/shropshire/crew-member-full-and-part-time-bridgnorth-shropshire/pdx-mc-a11007c4-a74e-48e2-ba98-bac0da46be2f-110234",1,1,0,0,Shropshire
 "/job-search/restaurant-1671@51.0903057,1.1281582/kent/crew-member-cheriton-18-only-1am-close-shift-availability-requirement/pdx-mc-c3a11ac1-f7aa-45e4-a0e4-f484b93a0d22-78751",1,0,1,0,Kent
-"/job-search/restaurant-1671@51.0903057,1.1281582/kent/customer-care-assistant-flexible-hours-cheriton/pdx-mc-c0106d17-db68-4b4b-a7cc-29f71ba335a3-78751",1,0,1,0,Kent
 "/job-search/restaurant-1599@51.3609699,1.4109101/kent/maintenance-person-flexible-hours-westwood-road-by-asdabroadstairs-ct10-2nn/pdx-mc-b57b6217-5a74-4cef-80e8-43b4c82f4dcd-78308",1,0,0,0,Kent
 "/job-search/restaurant-514@51.1610163,1.2899725/kent/staff-member-18-overnight-flexible-hours-whitfield/pdx-mc-6402d04b-a5f5-44be-b704-6b1df35448d2-78312",1,0,1,0,Kent
 "/job-search/restaurant-514@51.1610163,1.2899725/kent/customer-care-flexible-hours-whitfield-dover/pdx-mc-3893176c-ae3c-4364-87b5-e3f672437195-78312",1,1,0,0,Kent
