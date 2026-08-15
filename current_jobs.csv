@@ -261,7 +261,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-232@52.7722023,-1.2058691/leicestershire/crew-member-full-time-town-centre-loughborough/pdx-mc-06c57e70-40e9-4efc-9d50-fc55d5d732c4-77063",1,1,0,0,Leicestershire
 "/job-search/restaurant-232@52.7722023,-1.2058691/leicestershire/customer-care-town-centre-loughborough/pdx-mc-be963bc5-10a6-4147-b1f4-dbe5fc76d79b-77063",1,0,1,0,Leicestershire
 "/job-search/restaurant-942@51.6026978,-2.9236999/gwent/stock-delivery-person/pdx-mc-72ba1f4b-c7d3-439d-8262-e4954629eba1-77065",1,1,0,0,Gwent
-"/job-search/restaurant-942@51.6026978,-2.9236999/gwent/crew-member-full-time-coldra/pdx-mc-8fbab664-0020-4d0c-9b5a-517e18b08be1-77065",1,1,0,0,Gwent
 "/job-search/restaurant-495@51.5778422,-2.9440393/gwent/customer-care-spytty/pdx-mc-37afa124-ef31-4802-b16d-2b2345b8917f-77067",1,1,0,0,Gwent
 "/job-search/restaurant-794@51.7788888,-1.4938545/oxfordshire/staff-member-full-time-evenings-and-nights-witney-oxfordshire/pdx-mc-1716e779-3966-4af9-a7fa-1b5cc50485bf-77108",1,1,0,0,Oxfordshire
 "/job-search/restaurant-505@51.7625813,-1.1953553/oxfordshire/staff-member-full-time-evenings-and-nights-headington-oxfordshire/pdx-mc-1716e779-3966-4af9-a7fa-1b5cc50485bf-77097",1,1,0,0,Oxfordshire
@@ -410,7 +409,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1597@56.0050735,-3.821987/stirlingshire/early-morning-cleaner-camelon-falkirk-must-be-available-6am-10am/pdx-mc-d0f73603-4486-4d6e-9115-c4fbfbc2539a-77400",1,1,0,0,Stirlingshire
 "/job-search/restaurant-1596@56.1135462,-3.9098727/stirlingshire/full-time-crew-member-monday-to-friday-springkerse-stirling-must-be-able-to-work-from-5am/pdx-mc-a4e8ef8e-05da-4917-a715-76b46f87020b-77402",1,1,0,0,Stirlingshire
 "/job-search/restaurant-1044@56.1311592,-3.9561648/stirlingshire/full-time-customer-care-drip-road-stirling/pdx-mc-3bfbf8bd-623e-4324-aa65-8ee80714e077-77403",1,1,0,0,Stirlingshire
-"/job-search/restaurant-1716@53.1102525,-2.0373718/staffordshire/crew-member-full-time-leek-churnet-way-st13-8yg/pdx-mc-63bc34f8-60c2-4555-b8b7-017d51bcaf61-82134",1,1,0,0,Staffordshire
 "/job-search/restaurant-1612@52.7653042,-2.1076937/staffordshire/dining-area-assistant-stafford-jct-13-acton-gate-st18-9ap-part-time-6am-11pm-shifts-must-be-18/pdx-mc-fe16f51a-0f5f-46b2-a534-df92482b1195-77446",1,0,1,0,Staffordshire
 "/job-search/restaurant-679@56.633138,-2.922793/angus/customer-care-full-time-forfar-mcdonalds/pdx-mc-73c57547-61a9-46a6-81c8-f86d0c498f08-77462",1,1,0,0,Angus
 "/job-search/restaurant-679@56.633138,-2.922793/angus/crew-member-overnights-forfar-mcdonalds-18/pdx-mc-2ad399ef-e509-4899-a11f-836e7d70df06-77462",1,1,0,0,Angus
@@ -445,10 +443,15 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1606@53.3032094,-1.1066/nottinghamshire/worksop-retford-road-maintenance-delivery/pdx-mc-cba724bb-7ec8-42aa-8fca-a802b674db57-119021",1,1,0,0,Nottinghamshire
 "/job-search/restaurant-1606@53.3032094,-1.1066/nottinghamshire/worksop-retford-road-customer-care-part-time/pdx-mc-fd0a140e-75b8-45d8-8b4e-415c3b6a7384-119021",1,0,1,0,Nottinghamshire
 "/job-search/restaurant-1606@53.3032094,-1.1066/nottinghamshire/worksop-retford-road-customer-care-full-time/pdx-mc-6e59dab3-3a59-43bf-aada-ca0a63b009c8-119021",1,0,1,0,Nottinghamshire
+"/job-search/restaurant-707@53.0083853,-1.1905302/nottinghamshire/customer-care-assistant-bulwell-fantastic-opportunity-to-join-our-dining-area-team-with-a-great-pay-rate-of-1276-per-hour/pdx-mc-d8426e78-d468-46ec-9d18-fb3559fb576f-77542",1,0,1,0,Nottinghamshire
+"/job-search/restaurant-1579@53.0358339,-1.1955485/nottinghamshire/crew-member-hucknall-fantastic-opportunity-to-join-our-team-with-a-great-rate-of-pay-u18-952ph-18-1226ph-1426-premium-rate/pdx-mc-9a682da4-0fcf-4372-a1a5-202c11ee67fa-77543",1,0,1,0,Nottinghamshire
 "/job-search/restaurant-963@52.9987553,-1.1345623/nottinghamshire/crew-member-arnold-fantastic-opportunity-with-great-pay-rates-u18-962ph-18-1276ph-1476ph-premium-rate/pdx-mc-d0e94813-156c-4a3c-8d1b-a1ce7cfa57bc-77541",1,1,0,0,Nottinghamshire
+"/job-search/restaurant-465@52.9795993,-1.1747709/nottinghamshire/customer-care-assistant-valley-road-fantastic-opportunity-to-join-our-dining-area-team-with-a-great-pay-rate-of-1276-per-hour/pdx-mc-2cd17ad8-8584-4437-9e7b-6a89ba77c140-77544",1,0,1,0,Nottinghamshire
+"/job-search/restaurant-465@52.9795993,-1.1747709/nottinghamshire/crew-member-valley-road-fantastic-opportunity-to-join-our-team-with-a-great-rate-of-pay-u18-962ph-18-1276ph-1476-premium-rate/pdx-mc-859199c3-21d3-4a98-ad30-e978f287ff2d-77544",1,0,1,0,Nottinghamshire
+"/job-search/restaurant-707@53.0083853,-1.1905302/nottinghamshire/crew-member-bulwell-fantastic-opportunity-to-join-our-team-with-great-pay-rates-18-1276ph-1476ph-premium-rate/pdx-mc-28a401d3-9cb3-44e7-943f-dbdb7eb039da-77542",1,0,1,0,Nottinghamshire
 "/job-search/restaurant-707@53.0083853,-1.1905302/nottinghamshire/crew-member-bulwell-fantastic-opportunity-to-join-our-team-with-a-great-rate-of-pay-u18-952ph-18-1226ph-1426-premium-rate/pdx-mc-a73c73a2-af49-4f9d-8e58-cbffbfc8d2fa-77542",1,0,1,0,Nottinghamshire
+"/job-search/restaurant-1579@53.0358339,-1.1955485/nottinghamshire/crew-member-hucknall-fantastic-opportunity-to-join-our-team-with-great-pay-rates-18-1276ph-1476ph-premium-rate/pdx-mc-60f06a9b-674a-4825-b0ec-8bfcbfd6fbe1-77543",1,0,1,0,Nottinghamshire
 "/job-search/restaurant-367@51.5287704,0.1553821/essex/crew-member-part-time-dagenham-2-rm10-9lu/pdx-mc-29d836fc-e62d-4eec-ac46-66ed079e9acb-81400",1,0,1,0,Essex
-"/job-search/restaurant-1376@51.5072178,-0.1275862/london/crew-member-billingsgate-e14-5sp-anytimeanyday/pdx-mc-0afdbd49-c7c7-4ef4-b2c6-4b8637a7a8d8-109707",1,1,0,0,London
 "/job-search/restaurant-977@52.5564017,-1.3753251/leicestershire/customer-care-assistant-full-time-must-be-available-all-day-fridaysaturdaysunday-and-must-be-18-due-to-occasional-nightwork-le10/pdx-mc-bb04f434-762f-4c66-9d16-57a0f7b2773f-77583",1,1,0,0,Leicestershire
 "/job-search/restaurant-610@50.3771578,-4.9460205/cornwall/maintenancedelivery-early-mornings-tr9/pdx-mc-1e17a9fc-c52b-4023-a8fa-fb392ab4f823-77605",1,0,1,0,Cornwall
 "/job-search/restaurant-771@50.5245781,-3.5940312/devon/new-full-time-crew-member-opening-hours-0400-12001400-18-1276ph/pdx-mc-651afc13-a956-47b9-a165-ef6c519a559b-77607",1,1,0,0,Devon
