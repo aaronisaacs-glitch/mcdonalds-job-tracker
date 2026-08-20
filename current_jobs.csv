@@ -175,7 +175,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1093@54.6624761,-2.7580739/cumbria/work-experience/pdx-mc-bbff744b-7e14-4fe4-9b48-a74e5edda4ce-81057",1,0,0,1,Cumbria
 "/job-search/restaurant-217@54.3294444,-2.7469444/cumbria/work-experience/pdx-mc-bbff744b-7e14-4fe4-9b48-a74e5edda4ce-81062",1,0,0,1,Cumbria
 "/job-search/restaurant-1679@55.010762,-1.449138/north-sheilds/full-time-crew-member/pdx-mc-0284d2c3-45cd-46d5-a01f-e357603a0110-80057",1,1,0,0,North Sheilds
-"/job-search/restaurant-1332@55.0195819,-1.5412064/tyne-wear/part-time-customer-care/pdx-mc-c767d561-c7b0-4a18-b62c-01a06c482525-76873",1,1,0,0,Tyne & Wear
 "/job-search/restaurant-1594@52.2797667,-0.9056113/northamptonshire/burton-latimer-nn15-5zw-overnight-crew-member-3-an-hour-extra-midnight-6am/pdx-mc-ad9e0fec-b405-4b3b-93fe-d04d9fd27f47-78275",1,1,0,0,Northamptonshire
 "/job-search/restaurant-1167@52.5111943,-0.9410823/leicestershire/market-harborough-le16-7fd-full-time-crew-member/pdx-mc-c58eb25e-5328-4674-bdb9-4a58c6d0eddb-76923",1,1,0,0,Leicestershire
 "/job-search/restaurant-543@52.1925157,-0.2982626/bedfordshire/wyboston-overnight-crew-18-3-ph-extra-midnight-to-6am/pdx-mc-0fda7426-912c-466a-9b3e-9b4b42caf914-76911",1,1,0,0,Bedfordshire
@@ -295,7 +294,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1022@53.4903796,-2.8885906/merseyside/crew-member-kirkby-full-time/pdx-mc-ab7052dc-d515-415e-ba41-63e0515003a2-77189",1,1,0,0,Merseyside
 "/job-search/restaurant-1099@53.5676511,-2.8882436/lancashire/crew-member-ormskirk-full-time/pdx-mc-a3bc4503-b6ab-4d4a-947d-7954c9ee22b7-77194",1,1,0,0,Lancashire
 "/job-search/restaurant-1022@53.4903796,-2.8885906/merseyside/crew-member-kirkby-part-time-hours/pdx-mc-3982748a-699e-4a96-96bc-325338ea9417-77189",1,0,1,0,Merseyside
-"/job-search/restaurant-1249@53.412036,-2.944765/merseyside/crew-member-kensington-part-time-hours/pdx-mc-f14f96c5-4d89-4304-b0e5-18b45e222fed-77191",1,0,1,0,Merseyside
 "/job-search/restaurant-1318@53.5500032,-2.7717475/lancashire/crew-member-skelmersdale-part-time-hours/pdx-mc-68e290f1-69f7-4acc-8b9d-7671494a89d0-77195",1,0,1,0,Lancashire
 "/job-search/restaurant-1022@53.4903796,-2.8885906/merseyside/customer-care-kirkby-full-time/pdx-mc-60cbe632-71a7-4a1b-9d40-62a5669246d1-77189",1,1,0,0,Merseyside
 "/job-search/restaurant-1249@53.412036,-2.944765/merseyside/customer-care-kensington-full-time/pdx-mc-c46b0a31-7f34-4aed-866d-f096e6ae840b-77191",1,1,0,0,Merseyside
@@ -357,6 +355,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-380@51.4631684,0.1048925/london/mcdonalds-welling-customer-experience-leader-flexible-shifts/pdx-mc-90eeef46-3e46-4358-970f-aa40414a117f-77277",1,0,1,0,London
 "/job-search/restaurant-928@51.448429,0.2798648/kent/greenhithe-mcdonalds-part-time-crew-friday-saturday-and-sunday-evenings-midnight-finishes-18/pdx-mc-03921d40-fd26-48c1-b977-46d8ad6031cc-77272",1,1,0,0,Kent
 "/job-search/restaurant-928@51.448429,0.2798648/kent/mcdonalds-greenhithe-customer-experience-leader-dining-area-based-full-and-part-time-0600am-1900pm-or-1400pm-0030am/pdx-mc-2c002ba7-6f32-4f53-821b-b064a0b7f5c2-77272",1,0,1,0,Kent
+"/job-search/restaurant-140@51.4423767,0.3690223/kent/gravesend-mcdonalds-0600am-1000am-maintenance-position/pdx-mc-811dc254-cc2a-48cd-91a4-b667d3d3aaf7-77274",1,0,1,0,Kent
 "/job-search/restaurant-140@51.4423767,0.3690223/kent/gravesend-mcdonalds-overnight-shift-friday-saturday-night/pdx-mc-934bc72a-5290-4e6f-8e1d-0f6e5455a10d-77274",1,0,1,0,Kent
 "/job-search/restaurant-928@51.448429,0.2798648/kent/greenhithe-mcdonalds-customer-experience-leader-flexible-shifts/pdx-mc-f112b1e4-7486-49c8-9f33-75f47fcba041-77272",1,0,1,0,Kent
 "/job-search/restaurant-928@51.448429,0.2798648/kent/greenhithe-mcdonalds-overnight-shift-18-due-to-working-time-regulations/pdx-mc-358f355b-9c33-4ff7-8eba-3f207707dcfa-77272",1,0,1,0,Kent
