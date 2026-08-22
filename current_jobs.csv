@@ -76,7 +76,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1417@53.8755103,-0.7019293/york/crew-member-full-time/pdx-mc-16abffc4-130e-48e0-9031-80987867ada6-107197",1,1,0,0,York
 "/job-search/restaurant-1417@53.8755103,-0.7019293/york/crew-member-part-time/pdx-mc-2990283d-2ea9-4e6b-8450-fb700c62c1e6-107197",1,0,1,0,York
 "/job-search/restaurant-1085@54.2385776,-0.4133609/north-yorkshire/part-time-customer-care-assistant-over-18s-only-flexible-across-all-day-parts-2-3-shifts-per-week-eastfield-drive-thru-yo11-3ut/pdx-mc-e0ab6b92-0e0d-4eb5-b57e-6014a54b0724-76942",1,0,1,0,North Yorkshire
-"/job-search/restaurant-764@53.7057592,-0.9146956/east-yorkshire/customer-care-assistant-part-time/pdx-mc-f11f1633-5500-456a-8d9b-3c5f3dd5cd6c-107195",1,0,1,0,East Yorkshire
 "/job-search/restaurant-1125@54.0798367,-0.2136425/east-yorkshire/full-time-crew-member-4-5-shifts-a-week-over-18s-only-due-to-overnight-work-must-be-able-to-work-all-day-parts-from-1226-ph-mix-of-shifts-across-all-day-parts-morningsafternoonseveningsovernightsweekends-bridlington-yo16-4sj/pdx-mc-89291eb5-7f8a-4b5e-a1b0-86dad6a8a2b0-76939",1,1,0,0,East Yorkshire
 "/job-search/restaurant-1085@54.2385776,-0.4133609/north-yorkshire/part-time-overnight-crew-member-over-18s-only-2-3-shifts-per-week-10pm-7am-premium-rate-paid-between-12am-6am-eastfield-drive-thru-yo11-3ut/pdx-mc-b537ea17-3a0f-47a6-9ae5-c4382f821222-76942",1,0,1,0,North Yorkshire
 "/job-search/restaurant-1085@54.2385776,-0.4133609/north-yorkshire/part-time-late-night-crew-member-over-18s-only-2-3-shift-per-week-45pm-12am-eastfield-drive-thru-yo11-3ut/pdx-mc-b06caeec-bcdd-4d0c-9ad4-aebbeefeb9fa-76942",1,0,1,0,North Yorkshire
@@ -541,6 +540,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-151@52.6363837,-1.1339234/leicestershire/shift-leader/pdx-mc-53f84b0d-b8b7-4521-95d9-8c27c52aba72-77666",1,1,0,0,Leicestershire
 "/job-search/restaurant-1774@52.7609509,-1.2861901/loughborough/shift-leader/pdx-mc-53f84b0d-b8b7-4521-95d9-8c27c52aba72-107306",1,1,0,0,Loughborough
 "/job-search/restaurant-1696@52.7401228,-1.1405925/leicestershire/shift-leader/pdx-mc-53f84b0d-b8b7-4521-95d9-8c27c52aba72-121020",1,1,0,0,Leicestershire
+"/job-search/restaurant-1302@52.6477164,-1.067325/leicestershire/customer-care-assistant/pdx-mc-738c5223-0231-49f2-9abb-1f33e665c6c6-77665",1,1,0,0,Leicestershire
 "/job-search/restaurant-1696@52.7401228,-1.1405925/leicestershire/customer-care-assistant/pdx-mc-738c5223-0231-49f2-9abb-1f33e665c6c6-121020",1,1,0,0,Leicestershire
 "/job-search/restaurant-1696@52.7401228,-1.1405925/leicestershire/maintenance-person/pdx-mc-4a3ea857-9fd7-4ea1-b16a-062477ce0499-121020",1,1,0,0,Leicestershire
 "/job-search/restaurant-1696@52.7401228,-1.1405925/leicestershire/crew-member/pdx-mc-61705b42-80cb-4bd6-8cef-9e3f37ece8dc-121020",1,0,1,0,Leicestershire
