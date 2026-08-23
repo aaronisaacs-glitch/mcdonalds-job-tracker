@@ -304,7 +304,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1341@57.1200291,-2.1367739/aberdeenshire/asda-mcdonalds-pt-mornings-5am-start/pdx-mc-96301059-dc30-4e97-9136-4acd991e86af-81336",1,0,1,0,Aberdeenshire
 "/job-search/restaurant-1341@57.1200291,-2.1367739/aberdeenshire/asda-mcdonalds-pt-afternoons/pdx-mc-32e558c2-bccb-4220-bc62-e5cff51a754b-81336",1,1,0,0,Aberdeenshire
 "/job-search/restaurant-1489@57.1621429,-2.7194167/aberdeenshire/kittybrewster-mcdonalds-pt-must-be-available-weekends/pdx-mc-b2d202ce-6ce6-4e4f-b4ae-ead42af2dd53-81335",1,0,1,0,Aberdeenshire
-"/job-search/restaurant-730@56.198204,-3.162102/fife/crew-member-overnight-full-time/pdx-mc-7902417c-ea81-457f-87da-fc64a2bd3d98-116271",1,1,0,0,Fife
 "/job-search/restaurant-1536@56.1946136,-3.0031388/leven/crew-member-overnight-weekends/pdx-mc-ae3963b3-9084-4d9d-b64c-6e770d27e24f-116273",1,1,0,0,Leven
 "/job-search/restaurant-1662@53.514688,-2.9113961/liverpool/overnight-crew-member-full-time-maghull/pdx-mc-15a06956-fd57-443d-a190-b1cf6956c63d-78281",1,1,0,0,Liverpool
 "/job-search/restaurant-665@54.0627283,-2.8311605/lancashire/love-speaking-to-people-come-and-join-our-customer-care-team-at-morecambe-mcdonalds-full-or-part-time-shifts-available/pdx-mc-b003e9be-bcef-4bcc-954c-4355243ab9f5-81064",1,1,0,0,Lancashire
@@ -386,6 +385,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1460@52.1965729,-1.7125511/warwickshire/crew-member-overnight-shifts-premium-rate-applies/pdx-mc-9cfb9a7c-7c32-4d56-9eaf-57650b5d5c16-77305",1,1,0,0,Warwickshire
 "/job-search/restaurant-404@52.3962374,-1.9962133/west-midlands/stock-delivery-person/pdx-mc-2d73208d-4128-4fa0-be72-8b94592a6d6e-77298",1,1,0,0,West Midlands
 "/job-search/restaurant-1663@51.4893187,0.0208241/london/charlton-crew-member-1663/pdx-mc-73c9ede4-84fa-4bd7-99bb-6abf8083f82d-77338",1,1,0,0,London
+"/job-search/restaurant-939@51.5061676,0.1050473/london/crew-member-thamesmead-939/pdx-mc-3ef1bf0e-0015-4d0f-8201-000246a1a831-77342",1,1,0,0,London
 "/job-search/restaurant-973@51.3807345,-2.3897716/somerset/mcdonalds-bath-drive-thru-part-time-crew-member/pdx-mc-f4a43b47-32e4-42b1-ac7c-fb796df1eb1a-77374",1,0,1,0,Somerset
 "/job-search/restaurant-973@51.3807345,-2.3897716/somerset/mcdonalds-bath-drive-thru-full-time-crew-member/pdx-mc-2551cd1d-65de-4140-83ae-eadd476516ef-77374",1,1,0,0,Somerset
 "/job-search/restaurant-973@51.3807345,-2.3897716/somerset/mcdonalds-bath-drive-thru-part-time-customer-care/pdx-mc-16b26d58-7b7f-4a50-8ac2-1ba64c99b7ef-77374",1,0,1,0,Somerset
@@ -576,7 +576,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-746@50.9349658,-2.6458418/somerset/work-experience/pdx-mc-21fc746b-bb97-4385-8608-6c81c3862e21-120888",1,0,0,1,Somerset
 "/job-search/restaurant-1622@50.9425913,-2.6101984/somerset/work-experience/pdx-mc-21fc746b-bb97-4385-8608-6c81c3862e21-120889",1,0,0,1,Somerset
 "/job-search/restaurant-1155@53.3505065,-2.8783659/merseyside/customer-care-assistant-speke-retail-part-time/pdx-mc-7b14eee4-bf90-4d70-8824-a0997f1f18db-77691",1,1,0,0,Merseyside
-"/job-search/restaurant-1418@51.1763255,-1.7591256/wiltshire/amesbury-full-time-staff-member/pdx-mc-4c57add1-ed7e-47fa-b465-92396f5aaaba-77692",1,1,0,0,Wiltshire
 "/job-search/restaurant-1399@51.2129579,-1.5190683/hampshire/andover-weyhill-overnight-staff-member/pdx-mc-bfaa9656-ac54-4209-a48d-4533061e49a0-77693",1,1,0,0,Hampshire
 "/job-search/restaurant-1605@51.0481321,-2.4253193/somerset/wincanton-full-time-staff-member/pdx-mc-8e010785-758c-45f5-9f73-bbf627ce8641-77696",1,1,0,0,Somerset
 "/job-search/restaurant-1418@51.1763255,-1.7591256/wiltshire/amesbury-early-bird-staff-member/pdx-mc-a729f4b4-e8e0-4c88-bae8-95cfee11ea08-77692",1,1,0,0,Wiltshire
@@ -753,6 +752,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-7049@53.1766437,-6.802379/newbridge/crew-member-full-time-mcdonalds-newbridge-dt/pdx-mc-d30c1db5-144a-4279-994b-75c435dabeab-78755",1,1,0,0,Newbridge
 "/job-search/restaurant-7119@53.020228,-6.8220661/kilcullen/crew-member-full-time-mcdonalds-kilcullen-msa/pdx-mc-e7aa8ce9-8c45-4a55-8e0e-1282ddca3816-78705",1,1,0,0,Kilcullen
 "/job-search/restaurant-7027@53.3499889,-6.2647379/dublin/crew-member-full-time-mcdonalds-ilac-centre/pdx-mc-d57a98ab-86b1-4bfb-866c-4f7c4b0a114c-78704",1,1,0,0,Dublin
+"/job-search/restaurant-7047@53.2733642,-7.4851841/offaly/crew-member-full-time-mcdonalds-tullamore-dt-co-offaly/pdx-mc-d77f5ea5-6b46-425e-8f3f-58e2e2efcd92-80292",1,1,0,0,Offaly
 "/job-search/restaurant-7112@53.238117,-6.6561861/co-kildare/crew-member-overnight-full-or-part-time-mcdonalds-naas-dt/pdx-mc-752626a8-5b22-4129-b341-454270869943-78874",1,1,0,0,Co Kildare
 "/job-search/restaurant-7011@51.8781025,-8.4335136/cork/new-store-mcdonalds-carrigaline-crew-member/pdx-mc-87d39ae9-301b-4df7-ac8b-fc4583322831-78708",1,1,0,0,Cork
 "/job-search/restaurant-7038@52.3534987,-7.7020062/tipperary/mcdonalds-clonmel-full-time-crew-member/pdx-mc-3806109f-93da-41ae-a0df-41c5881b05ce-78757",1,1,0,0,Tipperary
@@ -843,7 +843,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1585@57.6916054,-2.0261238/aberdeenshire/mcdonalds-fraserburgh-part-time/pdx-mc-54d0e248-40ba-4cca-99ad-cc54f73d9b5e-105947",1,0,1,0,Aberdeenshire
 "/job-search/restaurant-308@52.896856,-1.4712032/derbyshire/overnight-crew-member-adastra-osmaston/pdx-mc-56cb14c4-6685-4768-9979-fcce962a4dea-106433",1,1,0,0,Derbyshire
 "/job-search/restaurant-308@52.896856,-1.4712032/derbyshire/adastra-maintenance-person-osmaston-308/pdx-mc-51920218-4cae-412b-8544-82b30a840e90-106433",1,1,0,0,Derbyshire
-"/job-search/restaurant-308@52.896856,-1.4712032/derbyshire/crew-member-part-time-adastra-osmaston-308/pdx-mc-b4333e43-149d-400f-aa8d-94ec9e9d178a-106433",1,1,0,0,Derbyshire
 "/job-search/restaurant-2725@52.913142,-1.514087/derbyshire/crew-member-part-time-adastra-the-mallard-2725/pdx-mc-a7298275-ca7d-4ff5-acda-24949cbf7bd9-115922",1,0,1,0,Derbyshire
 "/job-search/restaurant-2725@52.913142,-1.514087/derbyshire/adastra-maintenance-person-the-mallard-2725/pdx-mc-8ee99efc-8d14-4935-a73b-1b73f98f032d-115922",1,0,1,0,Derbyshire
 "/job-search/restaurant-2725@52.913142,-1.514087/derbyshire/shift-leader-adastra/pdx-mc-14cd1407-a899-46bc-8a1d-c0036f54fac4-115922",1,1,0,0,Derbyshire
