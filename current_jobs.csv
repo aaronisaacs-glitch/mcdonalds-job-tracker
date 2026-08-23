@@ -329,6 +329,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-921@51.7381977,0.47938/essex/chelmsford-riverside-retail-park-early-morning-starts-from-4am/pdx-mc-41c16c23-54fb-48c3-9559-bd98e27a6fb5-77203",1,1,0,0,Essex
 "/job-search/restaurant-1355@51.8754021,0.2495824/essex/delivery-assistant-overnight-11pm-8am-stansted-cm24-1py/pdx-mc-56b53ede-3c42-4c8f-b2a8-bad1335f0ee8-77206",1,1,0,0,Essex
 "/job-search/restaurant-1355@51.8754021,0.2495824/essex/customer-care-full-time-stansted-cm24-1py/pdx-mc-8030d6b0-45c2-4eaa-a0d8-188b72bb7b44-77206",1,1,0,0,Essex
+"/job-search/restaurant-451@52.2060275,0.1191106/cambridgeshire/part-time-crew-member-cambridge-cb2-3ll/pdx-mc-3d231bd1-6d73-46e0-9d41-497b81eef475-77199",1,0,1,0,Cambridgeshire
 "/job-search/restaurant-763@51.7353988,0.6795569/essex/customer-care-full-time-position-maldon-cm9-4le/pdx-mc-36674cc3-ad20-47b4-abf9-442e6f156f85-77204",1,1,0,0,Essex
 "/job-search/restaurant-763@51.7353988,0.6795569/essex/crew-car-park-person-maldon-essex-mon-to-wed-5am-until-2pm-18/pdx-mc-37b073fa-cda0-47d7-9723-8c050f8e26d0-77204",1,1,0,0,Essex
 "/job-search/restaurant-921@51.7381977,0.47938/essex/chelmsford-riverside-retail-park-to-be-available-until-1am/pdx-mc-0ee90ae3-3c91-4bd6-917d-00648da3f91e-77203",1,1,0,0,Essex
@@ -458,6 +459,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1601@54.5452903,-6.0276228/belfast/customer-care-assistant-over-18-full-time-mckinstry-road/pdx-mc-30c1f682-2e73-449d-a238-d6f86e7fe9be-77507",1,1,0,0,Belfast
 "/job-search/restaurant-1494@54.3291616,-6.2764778/county-down/staff-member-full-time-over-18-permanent-banbridge/pdx-mc-8462dc05-3c8f-4053-8784-6a44cb733cd6-77506",1,1,0,0,County Down
 "/job-search/restaurant-1494@54.3291616,-6.2764778/county-down/customer-care-assistant-over-18-full-time-banbridge/pdx-mc-8370b3e3-8936-488d-9ddb-c64e8298bcbe-77506",1,1,0,0,County Down
+"/job-search/restaurant-886@54.4618941,-6.3421648/county-armagh/staff-member-part-time-over-18-only-lurgan/pdx-mc-f3cd328d-49a9-4de8-b2ac-3ee596eb9510-77508",1,0,1,0,County Armagh
 "/job-search/restaurant-497@54.492056,-6.060879/county-antrim/crew-member-full-time-over-18-only-sprucefield/pdx-mc-20133025-0dbb-49e5-8d0d-49d0e2cea9f5-77512",1,1,0,0,County Antrim
 "/job-search/restaurant-497@54.492056,-6.060879/county-antrim/customer-care-assistant-full-time-over-18-sprucefield/pdx-mc-d8c97b81-acfb-46b2-9fe2-fed180a56133-77512",1,1,0,0,County Antrim
 "/job-search/restaurant-1494@54.3291616,-6.2764778/county-down/staff-member-part-time-over-18-only-banbridge/pdx-mc-8bcd3fab-8cb8-4f2f-a8d3-7d59bb38bc4e-77506",1,0,1,0,County Down
@@ -550,7 +552,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1646@52.6213899,-1.1320886/leicestershire/crew-member/pdx-mc-61705b42-80cb-4bd6-8cef-9e3f37ece8dc-77667",1,0,1,0,Leicestershire
 "/job-search/restaurant-1302@52.6477164,-1.067325/leicestershire/crew-member/pdx-mc-61705b42-80cb-4bd6-8cef-9e3f37ece8dc-77665",1,0,1,0,Leicestershire
 "/job-search/restaurant-1696@52.7401228,-1.1405925/leicestershire/crew-member/pdx-mc-61705b42-80cb-4bd6-8cef-9e3f37ece8dc-121020",1,0,1,0,Leicestershire
-"/job-search/restaurant-1210@55.9527511,-3.1907388/edinburgh/crew-member-full-time-waverley-market-city-centre/pdx-mc-b9ab19a3-f7ef-41a9-a8a7-264a5ad4d561-82789",1,1,0,0,Edinburgh
 "/job-search/restaurant-1478@55.9899993,-2.5117086/east-lothian/customer-care-full-time-part-time-spott-road-dunbar-linton-west-barns-spott-haddington-east-lothian/pdx-mc-7595172e-0425-4f02-bf64-c4b9a439c3fc-120887",1,1,0,0,East Lothian
 "/job-search/restaurant-1478@55.9899993,-2.5117086/east-lothian/crew-member-full-time-part-time-spott-road-dunbar-linton-west-barns-spott-haddington-east-lothian/pdx-mc-c04d72da-ba78-421c-ba47-9a8b2b7af524-120887",1,1,0,0,East Lothian
 "/job-search/restaurant-1478@55.9899993,-2.5117086/east-lothian/overnight-crew-member-must-be-over-18-full-time-part-time-spott-road-dunbar-linton-west-barns-spott-haddington-east-lothian/pdx-mc-779836a1-7099-4de4-9eeb-3ae7489ab531-120887",1,0,1,0,East Lothian
