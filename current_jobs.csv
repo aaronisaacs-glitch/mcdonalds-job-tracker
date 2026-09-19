@@ -545,6 +545,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1597@56.0050735,-3.821987/stirlingshire/overnight-crew-member/pdx-mc-c9e01d92-1414-4bed-a3b1-d8f321a93dfb-77400",1,0,1,0,Stirlingshire
 "/job-search/restaurant-840@56.0118177,-3.7459024/falkirk/overnight-crew-member/pdx-mc-c9e01d92-1414-4bed-a3b1-d8f321a93dfb-77401",1,0,1,0,Falkirk
 "/job-search/restaurant-1596@56.1135462,-3.9098727/stirlingshire/overnight-crew-member/pdx-mc-c9e01d92-1414-4bed-a3b1-d8f321a93dfb-77402",1,1,0,0,Stirlingshire
+"/job-search/restaurant-1634@51.5915916,0.0415535/essex/crew-member-woodford/pdx-mc-e6ddb1cf-31b3-4b08-9b32-15d742922663-77424",1,0,1,0,Essex
 "/job-search/restaurant-2326@51.7186721,-0.0387869/waltham-cross/customer-care/pdx-mc-c07abfe8-4b1c-40cc-995c-fe5741cef4ca-110716",1,1,0,0,Waltham Cross
 "/job-search/restaurant-323@52.6787977,-2.0478462/staffordshire/crew-member/pdx-mc-bfc3f69c-5953-4f08-9ce6-c84f4a525070-77444",1,1,0,0,Staffordshire
 "/job-search/restaurant-1612@52.7653042,-2.1076937/staffordshire/customer-care/pdx-mc-618a74c2-6826-4ce8-a8dd-c1df4993a401-77446",1,0,1,0,Staffordshire
@@ -593,7 +594,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1081@53.1766813,-0.6208882/lincolnshire/gateway-north-hykeham-ln6-crew-member-part-time/pdx-mc-2f764b03-dd3d-4f25-b5c4-95fb25c40bb6-77536",1,0,1,0,Lincolnshire
 "/job-search/restaurant-1606@53.3032094,-1.1066/nottinghamshire/worksop-retford-road-maintenance-delivery/pdx-mc-cba724bb-7ec8-42aa-8fca-a802b674db57-119021",1,1,0,0,Nottinghamshire
 "/job-search/restaurant-1606@53.3032094,-1.1066/nottinghamshire/worksop-retford-road-customer-care-full-time/pdx-mc-6e59dab3-3a59-43bf-aada-ca0a63b009c8-119021",1,0,1,0,Nottinghamshire
-"/job-search/restaurant-1386@53.3975052,-0.7726538/lincolnshire/crew-member/pdx-mc-587995ac-9f5d-4219-8988-759f82660be8-119018",1,1,0,0,Lincolnshire
 "/job-search/restaurant-1248@53.5901369,-0.6948045/north-lincolnshire/crew-member/pdx-mc-587995ac-9f5d-4219-8988-759f82660be8-119019",1,0,1,0,North Lincolnshire
 "/job-search/restaurant-1207@53.5645296,-0.6137141/north-lincolnshire/crew-member/pdx-mc-587995ac-9f5d-4219-8988-759f82660be8-119020",1,0,1,0,North Lincolnshire
 "/job-search/restaurant-843@53.3098436,-1.1441502/nottinghamshire/crew-member/pdx-mc-587995ac-9f5d-4219-8988-759f82660be8-119022",1,0,1,0,Nottinghamshire
@@ -808,7 +808,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1043@55.869289,-4.1203573/glasgow/dining-area-staff-full-time-flexible-contract/pdx-mc-0e326fd9-c6ef-4852-9cb2-d440a9c62771-119008",1,1,0,0,Glasgow
 "/job-search/restaurant-271@55.8570593,-4.2485216/glasgow/dining-area-staff-full-time-flexible-contract/pdx-mc-0e326fd9-c6ef-4852-9cb2-d440a9c62771-119011",1,1,0,0,Glasgow
 "/job-search/restaurant-807@55.8724654,-4.312377/glasgow/overnight-crew-member/pdx-mc-314666b9-fa56-44b2-9672-32b8b6c020e6-119006",1,1,0,0,Glasgow
-"/job-search/restaurant-1604@55.8686138,-4.1288698/glasgow/crew-member-full-time-flexible-contract-over-18/pdx-mc-0570c7a9-ca55-4dda-8bba-e8d9fb1ae7d1-119009",1,1,0,0,Glasgow
+"/job-search/restaurant-1604@55.8686138,-4.1288698/glasgow/overnight-crew-member/pdx-mc-314666b9-fa56-44b2-9672-32b8b6c020e6-119009",1,1,0,0,Glasgow
 "/job-search/restaurant-1043@55.869289,-4.1203573/glasgow/work-experience/pdx-mc-79a05c8a-4fd4-4295-ba36-9688ef8d3e0e-119008",1,0,0,1,Glasgow
 "/job-search/restaurant-1604@55.8686138,-4.1288698/glasgow/work-experience/pdx-mc-79a05c8a-4fd4-4295-ba36-9688ef8d3e0e-119009",1,0,0,1,Glasgow
 "/job-search/restaurant-585@50.9539632,-0.1336185/west-sussex/crew-member-burgess-hill-closing-team-4pm-2am-fantastic-benefits-premium-rate-150/pdx-mc-406ea4d9-0491-4b24-8895-0da5c800467a-77835",1,0,0,0,West Sussex
@@ -879,7 +879,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-279@51.6923061,-0.3859728/hertfordshire/crew-member/pdx-mc-02c70cd8-e0fd-4642-8f1a-c15deb9d2351-78059",1,0,1,0,Hertfordshire
 "/job-search/restaurant-1142@51.5201457,-0.6167792/berkshire/crew-member/pdx-mc-02c70cd8-e0fd-4642-8f1a-c15deb9d2351-78095",1,0,1,0,Berkshire
 "/job-search/restaurant-1531@51.6802832,-0.3951014/watford/crew-member/pdx-mc-02c70cd8-e0fd-4642-8f1a-c15deb9d2351-78096",1,0,1,0,Watford
-"/job-search/restaurant-389@51.6540972,-0.394313/hertfordshire/crew-member/pdx-mc-02c70cd8-e0fd-4642-8f1a-c15deb9d2351-78110",1,0,1,0,Hertfordshire
 "/job-search/restaurant-906@51.6771171,-0.3973777/hertfordshire/crew-member/pdx-mc-02c70cd8-e0fd-4642-8f1a-c15deb9d2351-78111",1,0,1,0,Hertfordshire
 "/job-search/restaurant-2070@51.5225843,-0.6775531/maidenhead/crew-member/pdx-mc-02c70cd8-e0fd-4642-8f1a-c15deb9d2351-82368",1,0,1,0,Maidenhead
 "/job-search/restaurant-960@51.4239005,-0.9806837/berkshire/overnight-crew-member/pdx-mc-57a2ca03-e0c0-47f3-a1d4-5cf8a31b35b6-78087",1,1,0,0,Berkshire
@@ -897,7 +896,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1014@52.1302953,-2.300022/worcestershire/crew-member-overnight-10pm-6am-18-yrs/pdx-mc-fc71cbf7-3ac9-44d9-9b34-68168719a132-78097",1,1,0,0,Worcestershire
 "/job-search/restaurant-1205@52.7750385,-1.5549855/derbyshire/crew-member-evenings-5pm-1am/pdx-mc-a1f2aa68-8955-4354-a6a4-9acc9fb4cbcf-78104",1,1,0,0,Derbyshire
 "/job-search/restaurant-1205@52.7750385,-1.5549855/derbyshire/delivery-and-outside-maintenance-person-part-time/pdx-mc-2a24d30b-cb45-4dd5-b56d-25f6ac8765a9-78104",1,0,1,0,Derbyshire
-"/job-search/restaurant-1306@52.3882269,-2.2521495/worcestershire/customer-care/pdx-mc-051ddde7-f80f-4242-b426-6f8b0cd0b257-111533",1,1,0,0,Worcestershire
 "/job-search/restaurant-1264@52.2899147,-2.1181133/worcestershire/crew-member/pdx-mc-f7e5bd72-f488-4b23-9260-bf671401b547-78113",1,1,0,0,Worcestershire
 "/job-search/restaurant-1264@52.2899147,-2.1181133/worcestershire/crew-member/pdx-mc-e60b2b4f-d8cb-4e8c-b48f-1ea1add5e22e-78113",1,0,1,0,Worcestershire
 "/job-search/restaurant-549@51.7472996,-0.4551046/hertfordshire/crew-member-hourly-paid-fullpart-time/pdx-mc-5207b72f-c9d3-46f3-a7d7-303595ce96bf-78117",1,1,0,0,Hertfordshire
