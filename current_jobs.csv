@@ -4,11 +4,16 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1429@50.8543635,-1.7296987/hampshire/customer-care/pdx-mc-7f73f67e-13f4-47e3-bbf7-9c1421128df5-77549",1,0,1,0,Hampshire
 "/job-search/restaurant-1429@50.8543635,-1.7296987/hampshire/crew-member/pdx-mc-4cd43ee2-27ab-4b94-87a1-4466d6835a9d-77549",1,0,1,0,Hampshire
 "/job-search/restaurant-518@50.9549823,-1.5356554/southampton/work-experience/pdx-mc-7cf126c8-d9f6-47c0-b5b2-1d3f6221444d-76289",1,0,0,1,Southampton
+"/job-search/restaurant-901@53.465808,-2.347621/greater-manchester/crew-member/pdx-mc-b4b79c08-e984-4006-baae-170d74c001e3-76290",1,1,0,0,Greater Manchester
+"/job-search/restaurant-715@53.4001373,-2.356868/cheshire/crew-member/pdx-mc-b4b79c08-e984-4006-baae-170d74c001e3-76335",1,1,0,0,Cheshire
+"/job-search/restaurant-876@53.5139468,-2.3235468/greater-manchester/crew-member/pdx-mc-b4b79c08-e984-4006-baae-170d74c001e3-77950",1,1,0,0,Greater Manchester
 "/job-search/restaurant-110@53.3885243,-2.5935425/cheshire/crew-member/pdx-mc-b4b79c08-e984-4006-baae-170d74c001e3-77958",1,1,0,0,Cheshire
 "/job-search/restaurant-1687@53.4047914,-2.6519058/warrington/crew-member/pdx-mc-b4b79c08-e984-4006-baae-170d74c001e3-79821",1,1,0,0,Warrington
 "/job-search/restaurant-2352@53.4002438,-2.5968222/cheshire/crew-member/pdx-mc-b4b79c08-e984-4006-baae-170d74c001e3-82524",1,1,0,0,Cheshire
 "/job-search/restaurant-1749@53.3096705,-2.7024982/cheshire/crew-member/pdx-mc-b4b79c08-e984-4006-baae-170d74c001e3-120316",1,1,0,0,Cheshire
 "/job-search/restaurant-704@53.4152673,-2.6275486/cheshire/customer-care/pdx-mc-26657907-16b8-40b9-a2ea-6960f4a0b211-77948",1,1,0,0,Cheshire
+"/job-search/restaurant-876@53.5139468,-2.3235468/greater-manchester/customer-care/pdx-mc-26657907-16b8-40b9-a2ea-6960f4a0b211-77950",1,1,0,0,Greater Manchester
+"/job-search/restaurant-829@53.4622713,-2.3590256/greater-manchester/customer-care/pdx-mc-26657907-16b8-40b9-a2ea-6960f4a0b211-77957",1,1,0,0,Greater Manchester
 "/job-search/restaurant-1687@53.4047914,-2.6519058/warrington/customer-care/pdx-mc-26657907-16b8-40b9-a2ea-6960f4a0b211-79821",1,1,0,0,Warrington
 "/job-search/restaurant-803@53.3277672,-2.7003127/cheshire/customer-care/pdx-mc-26657907-16b8-40b9-a2ea-6960f4a0b211-121787",1,1,0,0,Cheshire
 "/job-search/restaurant-704@53.4152673,-2.6275486/cheshire/maintenance-person/pdx-mc-967f740b-696f-4bc9-a4d3-8d45f46f504f-77948",1,1,0,0,Cheshire
@@ -37,7 +42,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1545@53.5498568,-1.4802069/south-yorkshire/overnight-crew-member/pdx-mc-e743c7d3-3a68-4492-9065-6c5d0efdf105-76343",1,0,1,0,South Yorkshire
 "/job-search/restaurant-421@51.7543774,0.5172817/essex/overnight-crew-member/pdx-mc-e743c7d3-3a68-4492-9065-6c5d0efdf105-76347",1,1,0,0,Essex
 "/job-search/restaurant-1133@55.186581,-1.5694681/northumberland/overnight-crew-member/pdx-mc-e743c7d3-3a68-4492-9065-6c5d0efdf105-77764",1,1,0,0,Northumberland
-"/job-search/restaurant-851@54.9771882,-1.5757879/tyne-wear/overnight-crew-member/pdx-mc-e743c7d3-3a68-4492-9065-6c5d0efdf105-77777",1,1,0,0,Tyne & Wear
 "/job-search/restaurant-1056@53.2412973,-0.5076314/lincolnshire/overnight-crew-member/pdx-mc-e743c7d3-3a68-4492-9065-6c5d0efdf105-77822",1,1,0,0,Lincolnshire
 "/job-search/restaurant-1110@52.6025557,-1.188366/leicestershire/overnight-crew-member/pdx-mc-e743c7d3-3a68-4492-9065-6c5d0efdf105-77829",1,1,0,0,Leicestershire
 "/job-search/restaurant-1240@51.361764,-2.909162/somerset/overnight-crew-member/pdx-mc-e743c7d3-3a68-4492-9065-6c5d0efdf105-120878",1,1,0,0,Somerset
@@ -57,7 +61,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1110@52.6025557,-1.188366/leicestershire/crew-member/pdx-mc-acf81b61-acf7-4bde-8adc-f563ac843209-77829",1,1,0,0,Leicestershire
 "/job-search/restaurant-1148@54.6145751,-1.066729/teesside/crew-member/pdx-mc-acf81b61-acf7-4bde-8adc-f563ac843209-77871",1,1,0,0,Teesside
 "/job-search/restaurant-1517@54.5667935,-0.9631401/tyneside/crew-member/pdx-mc-acf81b61-acf7-4bde-8adc-f563ac843209-77875",1,1,0,0,Tyneside
-"/job-search/restaurant-917@51.4036592,-0.7650498/berkshire/crew-member/pdx-mc-acf81b61-acf7-4bde-8adc-f563ac843209-79343",1,1,0,0,Berkshire
 "/job-search/restaurant-966@51.1201683,-0.1901273/west-sussex/crew-member/pdx-mc-acf81b61-acf7-4bde-8adc-f563ac843209-109084",1,1,0,0,West Sussex
 "/job-search/restaurant-651@51.1241404,-0.1917583/west-sussex/crew-member/pdx-mc-acf81b61-acf7-4bde-8adc-f563ac843209-109085",1,0,1,0,West Sussex
 "/job-search/restaurant-520@55.6041801,-4.4962418/east-ayrshire/crew-member/pdx-mc-acf81b61-acf7-4bde-8adc-f563ac843209-119003",1,1,0,0,East Ayrshire
@@ -68,6 +71,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1329@50.7381541,-1.9163121/dorset/crew-member/pdx-mc-4e41ad18-ebd7-427a-9c2d-ef57113725e9-76957",1,0,1,0,Dorset
 "/job-search/restaurant-968@50.7331804,-1.9908416/dorset/overnight-crew-member/pdx-mc-b57176a1-169a-4a6d-9b36-e0d93bf37559-76958",1,0,1,0,Dorset
 "/job-search/restaurant-237@54.2817692,-0.4008097/north-yorkshire/crew-member/pdx-mc-e3a8930d-8e55-4935-99c0-5a20eb0d096c-76941",1,1,0,0,North Yorkshire
+"/job-search/restaurant-1512@53.6163921,-0.9756291/doncaster/crew-member/pdx-mc-e3a8930d-8e55-4935-99c0-5a20eb0d096c-107198",1,1,0,0,Doncaster
 "/job-search/restaurant-1769@54.1536405,-0.7744804/malton/crew-member/pdx-mc-e3a8930d-8e55-4935-99c0-5a20eb0d096c-109636",1,1,0,0,Malton
 "/job-search/restaurant-237@54.2817692,-0.4008097/north-yorkshire/maintenance-person/pdx-mc-9f439d3b-e77e-458c-a3ed-8740a8850f72-76941",1,1,0,0,North Yorkshire
 "/job-search/restaurant-1085@54.2385776,-0.4133609/north-yorkshire/overnight-crew-member/pdx-mc-37b57001-c6cb-476f-9748-b2cf7c46316a-76942",1,1,0,0,North Yorkshire
@@ -107,11 +111,10 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-491@51.0742937,-4.0446773/devon/maintenance-person/pdx-mc-40564965-2348-4ca6-82ee-40406cb79aa3-82911",1,1,0,0,Devon
 "/job-search/restaurant-295@50.7229743,-3.5328317/devon/overnight-crew-member/pdx-mc-e7bd5dc2-253e-428a-a04b-c959468241d1-76788",1,1,0,0,Devon
 "/job-search/restaurant-491@51.0742937,-4.0446773/devon/overnight-crew-member/pdx-mc-e7bd5dc2-253e-428a-a04b-c959468241d1-82911",1,0,1,0,Devon
-"/job-search/restaurant-554@51.0241808,-3.0660603/somerset/overnight-crew-member/pdx-mc-e7bd5dc2-253e-428a-a04b-c959468241d1-120883",1,1,0,0,Somerset
 "/job-search/restaurant-1801@50.7826621,-3.6420823/devon/work-experience/pdx-mc-cda44812-7ae0-4517-83c1-067dd5858757-105973",1,0,0,1,Devon
 "/job-search/restaurant-1588@50.6386555,-3.5628248/exeter/crew-member/pdx-mc-dddef797-7a58-43e4-90d5-9c9c7851d962-76794",1,0,1,0,Exeter
 "/job-search/restaurant-1669@51.0229066,-2.7019371/south-somerset/crew-member/pdx-mc-dddef797-7a58-43e4-90d5-9c9c7851d962-81719",1,1,0,0,South Somerset
-"/job-search/restaurant-1136@51.0652982,-4.0855198/devon/crew-member/pdx-mc-dddef797-7a58-43e4-90d5-9c9c7851d962-82910",1,0,1,0,Devon
+"/job-search/restaurant-1136@51.0652982,-4.0855198/devon/crew-member/pdx-mc-dddef797-7a58-43e4-90d5-9c9c7851d962-82910",1,1,0,0,Devon
 "/job-search/restaurant-1669@51.0229066,-2.7019371/south-somerset/customer-care/pdx-mc-ebd96471-15dd-4c90-904b-660340eee88f-81719",1,1,0,0,South Somerset
 "/job-search/restaurant-1588@50.6386555,-3.5628248/exeter/overnight-crew-member/pdx-mc-3eb5e667-9aaf-4009-b5cc-b810d5efab8b-76794",1,0,1,0,Exeter
 "/job-search/restaurant-491@51.0742937,-4.0446773/devon/overnight-crew-member/pdx-mc-3eb5e667-9aaf-4009-b5cc-b810d5efab8b-82911",1,1,0,0,Devon
@@ -124,7 +127,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-109@51.5478207,-0.0550768/london/customer-care/pdx-mc-d7d37d34-82eb-4ba6-b8a1-a1cc0f0a8a3a-76793",1,1,0,0,London
 "/job-search/restaurant-603@51.5293078,-0.0948308/london/customer-care/pdx-mc-d7d37d34-82eb-4ba6-b8a1-a1cc0f0a8a3a-77061",1,1,0,0,London
 "/job-search/restaurant-1444@51.8737196,-2.2476875/gloucestershire/crew-member/pdx-mc-6c17b6bf-62d4-4a2c-b6b4-813bec14e3b4-77225",1,1,0,0,Gloucestershire
-"/job-search/restaurant-712@51.8625642,-2.2174092/gloucestershire/overnight-crew-member/pdx-mc-762fc950-db99-4481-8cb2-1b13d95532ca-77220",1,1,0,0,Gloucestershire
 "/job-search/restaurant-712@51.8625642,-2.2174092/gloucestershire/work-experience/pdx-mc-3341344c-80cb-4ec8-9eca-04f0606b7d34-77220",1,0,0,1,Gloucestershire
 "/job-search/restaurant-574@51.9151941,-2.0998853/gloucestershire/work-experience/pdx-mc-3341344c-80cb-4ec8-9eca-04f0606b7d34-77221",1,0,0,1,Gloucestershire
 "/job-search/restaurant-574@51.9151941,-2.0998853/gloucestershire/crew-member/pdx-mc-1ce0a08d-a29e-4880-a900-1b2198913d5b-77221",1,1,0,0,Gloucestershire
@@ -144,7 +146,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-986@53.6153917,-2.1287157/lancashire/crew-member/pdx-mc-a861e444-2048-486a-96de-f73c845bdc34-76828",1,0,1,0,Lancashire
 "/job-search/restaurant-683@53.4778723,-2.1258358/lancashire/crew-member/pdx-mc-a861e444-2048-486a-96de-f73c845bdc34-76833",1,0,1,0,Lancashire
 "/job-search/restaurant-519@53.2054584,-3.1189307/flintshire/crew-member/pdx-mc-a35eef54-533b-4e97-b45e-cbf0d726f1cb-76845",1,1,0,0,Flintshire
-"/job-search/restaurant-1654@53.3062804,-3.4719802/denbigshire/crew-member/pdx-mc-a35eef54-533b-4e97-b45e-cbf0d726f1cb-76848",1,0,1,0,Denbigshire
 "/job-search/restaurant-1154@53.2793824,-3.2837201/flintshire/customer-care/pdx-mc-db3823b7-f218-4b10-ae0f-b9f1d3c6ae59-76849",1,1,0,0,Flintshire
 "/job-search/restaurant-519@53.2054584,-3.1189307/flintshire/overnight-crew-member/pdx-mc-632364f4-55ab-4f6f-a7b4-3562de0342af-76845",1,1,0,0,Flintshire
 "/job-search/restaurant-1672@54.2310812,-1.3283943/north-yorkshire/crew-member/pdx-mc-7e2ca4ad-9974-4224-a349-1eaa3ccdc6d2-78160",1,1,0,0,North Yorkshire
@@ -191,6 +192,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1506@53.6997367,-2.2924538/lancashire/work-experience/pdx-mc-3e644f15-f5d5-4866-a01e-0e4d66c192cc-76872",1,0,0,1,Lancashire
 "/job-search/restaurant-1684@53.8358495,-2.2128887/lancashire/work-experience/pdx-mc-3e644f15-f5d5-4866-a01e-0e4d66c192cc-79878",1,0,0,1,Lancashire
 "/job-search/restaurant-217@54.3294444,-2.7469444/cumbria/work-experience/pdx-mc-3e644f15-f5d5-4866-a01e-0e4d66c192cc-81062",1,0,0,1,Cumbria
+"/job-search/restaurant-1679@55.010762,-1.449138/north-sheilds/crew-member/pdx-mc-1805d818-f5aa-4e27-9e14-c140ec7946ad-80057",1,1,0,0,North Sheilds
 "/job-search/restaurant-411@55.011301,-1.49405/north-tyneside/overnight-crew-member/pdx-mc-05f2ff5a-cfa3-456b-ab6f-5704098db435-76874",1,1,0,0,North Tyneside
 "/job-search/restaurant-394@54.946564,-1.5353506/tyne-wear/overnight-crew-member/pdx-mc-78d2750c-90c4-4c89-a835-05aa5757b949-76876",1,1,0,0,Tyne & Wear
 "/job-search/restaurant-543@52.1925157,-0.2982626/bedfordshire/crew-member/pdx-mc-8cc54c65-5499-4704-a61c-7bab04cceb00-76911",1,1,0,0,Bedfordshire
@@ -198,12 +200,13 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-793@52.25855,-1.1568663/northamptonshire/crew-member/pdx-mc-8cc54c65-5499-4704-a61c-7bab04cceb00-76917",1,1,0,0,Northamptonshire
 "/job-search/restaurant-1426@52.3443433,-1.3388592/warwickshire/crew-member/pdx-mc-8cc54c65-5499-4704-a61c-7bab04cceb00-76918",1,1,0,0,Warwickshire
 "/job-search/restaurant-187@52.398796,-0.7285717/northamptonshire/crew-member/pdx-mc-8cc54c65-5499-4704-a61c-7bab04cceb00-76922",1,1,0,0,Northamptonshire
+"/job-search/restaurant-1167@52.5111943,-0.9410823/leicestershire/crew-member/pdx-mc-8cc54c65-5499-4704-a61c-7bab04cceb00-76923",1,1,0,0,Leicestershire
 "/job-search/restaurant-1593@52.6765097,-0.7359615/rutland/crew-member/pdx-mc-8cc54c65-5499-4704-a61c-7bab04cceb00-76924",1,1,0,0,Rutland
 "/job-search/restaurant-1530@52.3300165,-0.0594106/st-ives/crew-member/pdx-mc-8cc54c65-5499-4704-a61c-7bab04cceb00-76927",1,1,0,0,St Ives
 "/job-search/restaurant-1594@52.2797667,-0.9056113/northamptonshire/crew-member/pdx-mc-8cc54c65-5499-4704-a61c-7bab04cceb00-78275",1,1,0,0,Northamptonshire
-"/job-search/restaurant-1141@52.5315827,-0.3205307/cambridgeshire/crew-member/pdx-mc-8cc54c65-5499-4704-a61c-7bab04cceb00-80788",1,0,1,0,Cambridgeshire
 "/job-search/restaurant-1091@52.3506161,-0.1803246/cambridgeshire/customer-care/pdx-mc-bdb0a17f-e5fb-440c-aad9-76c3510cad54-76919",1,1,0,0,Cambridgeshire
 "/job-search/restaurant-1593@52.6765097,-0.7359615/rutland/customer-care/pdx-mc-bdb0a17f-e5fb-440c-aad9-76c3510cad54-76924",1,1,0,0,Rutland
+"/job-search/restaurant-1167@52.5111943,-0.9410823/leicestershire/overnight-crew-member/pdx-mc-bd307f1c-bc14-4dea-b753-9f96d7849aaf-76923",1,0,1,0,Leicestershire
 "/job-search/restaurant-1426@52.3443433,-1.3388592/warwickshire/work-experience/pdx-mc-83b812b5-8a4d-499f-a887-7902b6aafbf4-76918",1,0,0,1,Warwickshire
 "/job-search/restaurant-1530@52.3300165,-0.0594106/st-ives/work-experience/pdx-mc-83b812b5-8a4d-499f-a887-7902b6aafbf4-76927",1,0,0,1,St Ives
 "/job-search/restaurant-1594@52.2797667,-0.9056113/northamptonshire/work-experience/pdx-mc-83b812b5-8a4d-499f-a887-7902b6aafbf4-78275",1,0,0,1,Northamptonshire
@@ -228,6 +231,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-512@53.5150271,-1.1021861/south-yorkshire/overnight-crew-member/pdx-mc-6852e108-76bb-47fc-89b0-c7358e72bc1c-76933",1,1,0,0,South Yorkshire
 "/job-search/restaurant-1690@53.3900428,-1.0644603/worksop/overnight-crew-member/pdx-mc-6852e108-76bb-47fc-89b0-c7358e72bc1c-81055",1,1,0,0,Worksop
 "/job-search/restaurant-880@53.506428,-1.11369/south-yorkshire/work-experience/pdx-mc-e253050b-9e17-4f35-aaaf-aeaef35c5571-115716",1,0,0,1,South Yorkshire
+"/job-search/restaurant-2@51.5583774,-0.1188831/london/crew-member/pdx-mc-361b48b3-ea4d-4aca-844a-d5d1d53341af-109697",1,1,0,0,London
 "/job-search/restaurant-454@54.6471712,-5.6564609/county-down/crew-member/pdx-mc-447eb5c1-111f-441a-9e93-e7b8c83a9208-76947",1,0,1,0,County Down
 "/job-search/restaurant-964@54.3218651,-5.7219145/county-down/crew-member/pdx-mc-447eb5c1-111f-441a-9e93-e7b8c83a9208-76952",1,1,0,0,County Down
 "/job-search/restaurant-721@54.6692784,-5.9557245/county-antrim/crew-member/pdx-mc-447eb5c1-111f-441a-9e93-e7b8c83a9208-76953",1,0,1,0,County Antrim
@@ -246,9 +250,12 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-561@54.655559,-5.9183499/county-antrim/crew-member-new-restaurant-opening/pdx-mc-f874955d-b510-4910-b1fe-f271690a0a03-76954",1,0,1,0,County Antrim
 "/job-search/restaurant-1570@54.6186289,-5.8559078/northern-ireland/customer-care/pdx-mc-74239ea2-f574-4f33-85f1-cf00b5305f66-76956",1,1,0,0,Northern Ireland
 "/job-search/restaurant-563@55.1221661,-6.6738699/county-londonderry/crew-member/pdx-mc-36689b3d-dadd-47de-b874-bd5d8222ee65-76968",1,1,0,0,County Londonderry
+"/job-search/restaurant-1229@55.8852933,-3.1628756/edinburgh/crew-member/pdx-mc-3aa8bc6b-7a94-4306-9076-e409f1ccc46f-109161",1,1,0,0,Edinburgh
 "/job-search/restaurant-1138@55.6208912,-2.8161803/border/customer-care/pdx-mc-8bd1df3a-52ac-483e-8f81-d32b02310c5e-79662",1,1,0,0,Border
+"/job-search/restaurant-1539@55.8857754,-3.0845592/edinburgh/customer-care/pdx-mc-8bd1df3a-52ac-483e-8f81-d32b02310c5e-109160",1,1,0,0,Edinburgh
 "/job-search/restaurant-636@55.9363938,-3.2393529/edinburgh/maintenance-person/pdx-mc-2613e105-7798-477f-bf62-a5280563486f-76970",1,1,0,0,Edinburgh
 "/job-search/restaurant-1138@55.6208912,-2.8161803/border/maintenance-person/pdx-mc-2613e105-7798-477f-bf62-a5280563486f-79662",1,1,0,0,Border
+"/job-search/restaurant-1229@55.8852933,-3.1628756/edinburgh/maintenance-person/pdx-mc-2613e105-7798-477f-bf62-a5280563486f-109161",1,0,1,0,Edinburgh
 "/job-search/restaurant-1138@55.6208912,-2.8161803/border/crew-member/pdx-mc-22f2ece1-63b0-4c5f-a7d7-9a4a21140c0b-79662",1,1,0,0,Border
 "/job-search/restaurant-1138@55.6208912,-2.8161803/border/work-experience/pdx-mc-1e82a637-21c1-4570-87bb-859fcc2306b9-79662",1,0,0,1,Border
 "/job-search/restaurant-1539@55.8857754,-3.0845592/edinburgh/work-experience/pdx-mc-1e82a637-21c1-4570-87bb-859fcc2306b9-109160",1,0,0,1,Edinburgh
@@ -278,6 +285,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-777@53.0919738,-0.7894476/nottinghamshire/crew-member/pdx-mc-2d1fc43e-75da-47a0-9e82-241fc8c0e110-76981",1,1,0,0,Nottinghamshire
 "/job-search/restaurant-777@53.0919738,-0.7894476/nottinghamshire/overnight-crew-member/pdx-mc-8e0ec3c4-eef6-4914-919f-04daf836ce16-76981",1,0,1,0,Nottinghamshire
 "/job-search/restaurant-552@53.1672082,-2.2184664/cheshire/crew-member/pdx-mc-cae784bc-1d64-4951-836c-de7874ac82da-77010",1,0,1,0,Cheshire
+"/job-search/restaurant-1046@53.0333272,-2.2294609/staffordshire/crew-member/pdx-mc-cae784bc-1d64-4951-836c-de7874ac82da-77017",1,0,1,0,Staffordshire
 "/job-search/restaurant-501@52.996128,-2.2088578/staffordshire/crew-member/pdx-mc-cae784bc-1d64-4951-836c-de7874ac82da-77018",1,1,0,0,Staffordshire
 "/job-search/restaurant-1203@53.1447291,-2.3668238/cheshire/crew-member/pdx-mc-cae784bc-1d64-4951-836c-de7874ac82da-77020",1,1,0,0,Cheshire
 "/job-search/restaurant-435@53.0286,-2.1922117/staffordshire/crew-member/pdx-mc-cae784bc-1d64-4951-836c-de7874ac82da-77021",1,1,0,0,Staffordshire
@@ -313,14 +321,16 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1454@50.9769236,-3.1462904/somerset/shift-leader/pdx-mc-56275c5b-0bf3-4d35-b844-ac512ad160e3-77937",1,1,0,0,Somerset
 "/job-search/restaurant-1455@53.1374135,-1.3335326/derbyshire/shift-leader/pdx-mc-56275c5b-0bf3-4d35-b844-ac512ad160e3-110099",1,1,0,0,Derbyshire
 "/job-search/restaurant-1469@51.7416207,-4.0672223/swansea/crew-member/pdx-mc-85b7efda-fbc9-4280-8f5e-5eeadbd6d476-77036",1,1,0,0,Swansea
-"/job-search/restaurant-1381@51.5872945,-2.8399656/monmouthshire/customer-care/pdx-mc-53d8f88a-4fea-4dbc-8c95-8742b04a1756-77029",1,1,0,0,Monmouthshire
 "/job-search/restaurant-1406@53.1381967,-2.3364428/cheshire/overnight-crew-member/pdx-mc-a2bb74f5-a976-4336-bbeb-3fd34333aabe-77929",1,1,0,0,Cheshire
 "/job-search/restaurant-942@51.6026978,-2.9236999/gwent/crew-member/pdx-mc-1e502a93-7c1c-4b8d-b477-83c9719301f0-77065",1,1,0,0,Gwent
-"/job-search/restaurant-727@51.5358191,-3.1294485/cardiff/overnight-crew-member/pdx-mc-7cbfcdd8-cdda-4265-b5c4-effbe214428c-77064",1,0,1,0,Cardiff
+"/job-search/restaurant-599@51.6699158,-1.3001481/oxfordshire/crew-member/pdx-mc-da935a1a-e0f7-4734-8985-167e01a0d9a4-77091",1,0,1,0,Oxfordshire
 "/job-search/restaurant-1032@51.6217852,-1.1152211/oxfordshire/crew-member/pdx-mc-da935a1a-e0f7-4734-8985-167e01a0d9a4-77094",1,1,0,0,Oxfordshire
+"/job-search/restaurant-521@52.280674,-1.543597/warwickshire/crew-member/pdx-mc-da935a1a-e0f7-4734-8985-167e01a0d9a4-77099",1,1,0,0,Warwickshire
 "/job-search/restaurant-794@51.7788888,-1.4938545/oxfordshire/crew-member/pdx-mc-da935a1a-e0f7-4734-8985-167e01a0d9a4-77108",1,0,1,0,Oxfordshire
+"/job-search/restaurant-599@51.6699158,-1.3001481/oxfordshire/overnight-crew-member/pdx-mc-c7df978e-09d6-43a5-8b6b-03052654d20c-77091",1,1,0,0,Oxfordshire
 "/job-search/restaurant-1032@51.6217852,-1.1152211/oxfordshire/crew-member/pdx-mc-99e9e74b-84bd-4692-8a76-d4923f556ffb-77094",1,1,0,0,Oxfordshire
 "/job-search/restaurant-794@51.7788888,-1.4938545/oxfordshire/crew-member/pdx-mc-99e9e74b-84bd-4692-8a76-d4923f556ffb-77108",1,1,0,0,Oxfordshire
+"/job-search/restaurant-599@51.6699158,-1.3001481/oxfordshire/overnight-crew-member/pdx-mc-6f13ffce-a9e9-48c7-a707-cce995bf0938-77091",1,0,1,0,Oxfordshire
 "/job-search/restaurant-794@51.7788888,-1.4938545/oxfordshire/overnight-crew-member/pdx-mc-6f13ffce-a9e9-48c7-a707-cce995bf0938-77108",1,1,0,0,Oxfordshire
 "/job-search/restaurant-836@51.3800302,0.4770656/kent/customer-care/pdx-mc-c850aa75-ffd1-4c6b-ad0e-e6f6ca47bf1d-77142",1,1,0,0,Kent
 "/job-search/restaurant-648@51.6281829,-3.8196923/glamorgan/crew-member/pdx-mc-92f71c8d-cd27-470c-9b59-94085ed6827f-77145",1,1,0,0,Glamorgan
@@ -398,7 +408,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1485@51.2922521,0.4763096/kent/crew-member/pdx-mc-a1a8e983-8c1b-4923-a0e8-e9b87859bcdf-105545",1,1,0,0,Kent
 "/job-search/restaurant-1485@51.2922521,0.4763096/kent/customer-care/pdx-mc-a5bd1697-fdc7-4f14-9a82-5c81c65e429d-105545",1,1,0,0,Kent
 "/job-search/restaurant-1485@51.2922521,0.4763096/kent/overnight-crew-member/pdx-mc-5a10c139-f270-4471-a5ba-92c4f3ab7637-105545",1,1,0,0,Kent
-"/job-search/restaurant-214@51.4732438,-0.09233/london/overnight-crew-member/pdx-mc-5b5dc318-070e-4ce9-b52b-de9f31d0727e-77215",1,1,0,0,London
 "/job-search/restaurant-1211@53.7703177,-0.3820588/east-yorkshire/crew-member/pdx-mc-9a928e7e-60e9-4007-8078-d77b8c0431fb-77231",1,1,0,0,East Yorkshire
 "/job-search/restaurant-345@53.7278663,-0.3718407/east-yorkshire/crew-member/pdx-mc-9a928e7e-60e9-4007-8078-d77b8c0431fb-77233",1,1,0,0,East Yorkshire
 "/job-search/restaurant-210@53.7447115,-0.3409507/east-yorkshire/crew-member/pdx-mc-9a928e7e-60e9-4007-8078-d77b8c0431fb-77235",1,1,0,0,East Yorkshire
@@ -435,10 +444,11 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-2233@51.3960283,0.1736022/kent/customer-care/pdx-mc-348301dd-548a-4701-8264-387230a11923-105507",1,0,1,0,Kent
 "/job-search/restaurant-928@51.448429,0.2798648/kent/overnight-crew-member/pdx-mc-c41a78f0-c530-4a59-9891-af493c88b353-77272",1,0,1,0,Kent
 "/job-search/restaurant-130@52.192537,-1.704425/warwickshire/crew-member/pdx-mc-4bc4dc3d-1343-4f0e-82b2-107dacb07725-77304",1,1,0,0,Warwickshire
+"/job-search/restaurant-1079@52.3121204,-1.8880559/worcestershire/overnight-crew-member/pdx-mc-3542cfc6-2803-4788-8769-821c6fd2688e-77300",1,0,1,0,Worcestershire
 "/job-search/restaurant-1420@52.3217169,-1.6660238/warwickshire/crew-member/pdx-mc-86597850-77e2-4e8c-a384-7f9350e76f40-77295",1,1,0,0,Warwickshire
 "/job-search/restaurant-1079@52.3121204,-1.8880559/worcestershire/customer-care/pdx-mc-575fa241-8468-44e2-8369-28dd86215ac3-77300",1,0,1,0,Worcestershire
 "/job-search/restaurant-494@51.4782213,0.1812055/london/crew-member/pdx-mc-b5412078-b1b6-4ffb-ba3c-bf2e16502f49-77340",1,1,0,0,London
-"/job-search/restaurant-51@51.4148913,-0.0528476/london/crew-member/pdx-mc-b5412078-b1b6-4ffb-ba3c-bf2e16502f49-77341",1,0,1,0,London
+"/job-search/restaurant-1@51.4916183,0.066586/london/crew-member/pdx-mc-b5412078-b1b6-4ffb-ba3c-bf2e16502f49-77344",1,1,0,0,London
 "/job-search/restaurant-1663@51.4893187,0.0208241/london/customer-care/pdx-mc-eb191c07-e72d-4a78-9a7c-26728a718021-77338",1,1,0,0,London
 "/job-search/restaurant-939@51.5061676,0.1050473/london/work-experience/pdx-mc-37440b26-aafb-48f7-a917-318a33db5325-77342",1,0,0,1,London
 "/job-search/restaurant-1463@52.9055278,-1.1882688/nottinghamshire/crew-member/pdx-mc-2965d861-c13b-4158-a6a6-b8122f857174-77349",1,0,1,0,Nottinghamshire
@@ -495,7 +505,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1597@56.0050735,-3.821987/stirlingshire/overnight-crew-member/pdx-mc-c9e01d92-1414-4bed-a3b1-d8f321a93dfb-77400",1,0,1,0,Stirlingshire
 "/job-search/restaurant-840@56.0118177,-3.7459024/falkirk/overnight-crew-member/pdx-mc-c9e01d92-1414-4bed-a3b1-d8f321a93dfb-77401",1,0,1,0,Falkirk
 "/job-search/restaurant-2326@51.7186721,-0.0387869/waltham-cross/crew-member/pdx-mc-67e49ad8-ec84-4e35-aa6b-cf2f90608602-110716",1,1,0,0,Waltham Cross
-"/job-search/restaurant-31@51.632812,-0.1295575/london/crew-member/pdx-mc-044d8bc1-31f0-4ddf-95a6-0789ed9c4915-82589",1,0,1,0,London
 "/job-search/restaurant-959@53.9186784,-3.0114207/lancashire/maintenance-person/pdx-mc-348e9f42-1ba6-44d2-8f25-bc8d7d7873ca-77435",1,0,1,0,Lancashire
 "/job-search/restaurant-1716@53.1102525,-2.0373718/staffordshire/crew-member/pdx-mc-bfc3f69c-5953-4f08-9ce6-c84f4a525070-82134",1,0,1,0,Staffordshire
 "/job-search/restaurant-1612@52.7653042,-2.1076937/staffordshire/customer-care/pdx-mc-618a74c2-6826-4ce8-a8dd-c1df4993a401-77446",1,0,1,0,Staffordshire
@@ -573,8 +582,13 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-582@52.0057559,-0.7926377/milton-keynes/overnight-crew-member/pdx-mc-8fe0627a-0ca2-4d8e-a56f-d5df71de0386-77624",1,1,0,0,Milton Keynes
 "/job-search/restaurant-582@52.0057559,-0.7926377/milton-keynes/crew-member/pdx-mc-6aa97d43-4f80-4050-827b-c612da6c8038-77624",1,0,1,0,Milton Keynes
 "/job-search/restaurant-582@52.0057559,-0.7926377/milton-keynes/customer-care/pdx-mc-880c9c4b-ae8c-42dc-8fa8-0c73bef63faa-77624",1,1,0,0,Milton Keynes
+"/job-search/restaurant-1015@50.2256966,-5.2761245/cornwall/crew-member/pdx-mc-cba2aba9-a946-43c2-a279-ec4d3060ef77-77634",1,0,1,0,Cornwall
+"/job-search/restaurant-1074@50.3329028,-4.7926098/cornwall/crew-member/pdx-mc-cba2aba9-a946-43c2-a279-ec4d3060ef77-77636",1,0,1,0,Cornwall
 "/job-search/restaurant-1193@50.2642289,-5.1032951/cornwall/crew-member/pdx-mc-cba2aba9-a946-43c2-a279-ec4d3060ef77-77637",1,1,0,0,Cornwall
+"/job-search/restaurant-1074@50.3329028,-4.7926098/cornwall/maintenance-person/pdx-mc-6a29c32d-8dde-4672-ae33-d957005393a7-77636",1,1,0,0,Cornwall
 "/job-search/restaurant-570@50.3933421,-4.0812354/devon/overnight-crew-member/pdx-mc-de50031e-1541-443d-aacf-9a5e95aa8553-77628",1,0,1,0,Devon
+"/job-search/restaurant-1015@50.2256966,-5.2761245/cornwall/overnight-crew-member/pdx-mc-67af3d35-1058-4be6-9e95-624b9ef60a71-77634",1,0,1,0,Cornwall
+"/job-search/restaurant-1074@50.3329028,-4.7926098/cornwall/overnight-crew-member/pdx-mc-67af3d35-1058-4be6-9e95-624b9ef60a71-77636",1,1,0,0,Cornwall
 "/job-search/restaurant-1193@50.2642289,-5.1032951/cornwall/overnight-crew-member/pdx-mc-67af3d35-1058-4be6-9e95-624b9ef60a71-77637",1,1,0,0,Cornwall
 "/job-search/restaurant-1475@52.9019392,-1.4244097/derbyshire/customer-care/pdx-mc-33a4adab-a016-4d6d-8457-18b87fe860ba-77641",1,1,0,0,Derbyshire
 "/job-search/restaurant-1664@52.6042308,0.3971826/norfolk/crew-member/pdx-mc-d73d5fd5-3190-4175-8698-576ef74c1249-77756",1,1,0,0,Norfolk
@@ -596,7 +610,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-940@52.7993628,-0.119901/lincolnshire/work-experience/pdx-mc-2c5dcea0-072b-4def-941f-3beda8d314a9-77644",1,0,0,1,Lincolnshire
 "/job-search/restaurant-1524@51.9607203,-1.2020699/oxfordshire/crew-member/pdx-mc-3126e9d6-63e1-41c4-a586-935b20078717-77648",1,0,1,0,Oxfordshire
 "/job-search/restaurant-1537@51.8907776,-1.161071/oxfordshire/crew-member/pdx-mc-3126e9d6-63e1-41c4-a586-935b20078717-77649",1,1,0,0,Oxfordshire
-"/job-search/restaurant-1620@52.2604688,-1.6114007/warwickshire/crew-member/pdx-mc-3126e9d6-63e1-41c4-a586-935b20078717-77650",1,0,1,0,Warwickshire
 "/job-search/restaurant-1255@51.6149125,-1.6366099/wiltshire/crew-member/pdx-mc-3126e9d6-63e1-41c4-a586-935b20078717-78155",1,1,0,0,Wiltshire
 "/job-search/restaurant-115@51.2462714,-1.9922127/wiltshire/crew-member-new-restaurant-opening/pdx-mc-4266742f-8035-45f5-8981-e2df4ca2f34e-78150",1,1,0,0,Wiltshire
 "/job-search/restaurant-1443@51.2462714,-1.9922127/wiltshire/crew-member-new-restaurant-opening/pdx-mc-4266742f-8035-45f5-8981-e2df4ca2f34e-78154",1,0,1,0,Wiltshire
@@ -643,6 +656,10 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-151@52.6363837,-1.1339234/leicestershire/overnight-crew-member/pdx-mc-ef253f07-e965-44d9-89cf-833f7a4edcae-77666",1,1,0,0,Leicestershire
 "/job-search/restaurant-1696@52.7401228,-1.1405925/leicestershire/overnight-crew-member/pdx-mc-ef253f07-e965-44d9-89cf-833f7a4edcae-121020",1,1,0,0,Leicestershire
 "/job-search/restaurant-780@52.5882494,-1.1034979/leicestershire/overnight-crew-member/pdx-mc-ef253f07-e965-44d9-89cf-833f7a4edcae-123723",1,1,0,0,Leicestershire
+"/job-search/restaurant-1302@52.6477164,-1.067325/leicestershire/work-experience/pdx-mc-037c901f-0085-4f5d-99ef-e171b795dca3-77665",1,0,0,1,Leicestershire
+"/job-search/restaurant-1646@52.6213899,-1.1320886/leicestershire/work-experience/pdx-mc-037c901f-0085-4f5d-99ef-e171b795dca3-77667",1,0,0,1,Leicestershire
+"/job-search/restaurant-461@52.659871,-1.1329101/leicestershire/work-experience/pdx-mc-037c901f-0085-4f5d-99ef-e171b795dca3-105711",1,0,0,1,Leicestershire
+"/job-search/restaurant-1774@52.7609509,-1.2861901/loughborough/work-experience/pdx-mc-037c901f-0085-4f5d-99ef-e171b795dca3-107306",1,0,0,1,Loughborough
 "/job-search/restaurant-1478@55.9899993,-2.5117086/east-lothian/crew-member/pdx-mc-4e0b2dc3-3917-4be3-93ef-64151960afe5-120887",1,0,1,0,East Lothian
 "/job-search/restaurant-1243@55.9686811,-3.1423658/edinburgh/customer-care/pdx-mc-8dc97eb2-ff7f-4f40-b058-9afa3e991bed-117432",1,0,1,0,Edinburgh
 "/job-search/restaurant-1478@55.9899993,-2.5117086/east-lothian/customer-care/pdx-mc-8dc97eb2-ff7f-4f40-b058-9afa3e991bed-120887",1,1,0,0,East Lothian
@@ -650,7 +667,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1478@55.9899993,-2.5117086/east-lothian/overnight-crew-member/pdx-mc-7f5a6de4-bc49-4974-a8fa-62e5288c4baa-120887",1,0,1,0,East Lothian
 "/job-search/restaurant-1478@55.9899993,-2.5117086/east-lothian/overnight-crew-member/pdx-mc-66ab0fea-d806-40c6-a4ca-5d60013e1569-120887",1,1,0,0,East Lothian
 "/job-search/restaurant-865@52.4473686,1.7270661/suffolk/maintenance-person/pdx-mc-103e6de9-b118-4376-94d5-50b0b91a68d6-77679",1,0,1,0,Suffolk
-"/job-search/restaurant-1998@50.8861179,-1.2445898/fareham/crew-member/pdx-mc-895bed76-a9f3-4b6b-9890-1f031cec02ff-83558",1,0,1,0,Fareham
 "/job-search/restaurant-1682@51.0833303,-0.8185373/hampshire/crew-member/pdx-mc-895bed76-a9f3-4b6b-9890-1f031cec02ff-105712",1,1,0,0,Hampshire
 "/job-search/restaurant-1003@50.7107056,-2.4759752/dorset/crew-member/pdx-mc-8ff4e313-b915-46b6-b06f-b48847089d57-77683",1,0,1,0,Dorset
 "/job-search/restaurant-943@50.6162727,-2.4560058/dorset/crew-member/pdx-mc-8ff4e313-b915-46b6-b06f-b48847089d57-110112",1,0,1,0,Dorset
@@ -659,15 +675,12 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1003@50.7107056,-2.4759752/dorset/overnight-crew-member/pdx-mc-571d9c33-9185-4b1e-bc84-3ed0ffb48f41-77683",1,0,1,0,Dorset
 "/job-search/restaurant-1656@50.6325706,-2.4606636/dorset/work-experience/pdx-mc-85dd1497-4b69-4e9a-934c-c391344a80e3-78513",1,0,0,1,Dorset
 "/job-search/restaurant-131@53.1911309,-2.8861393/cheshire/work-experience/pdx-mc-9ef3a4cc-3c6b-401d-b6f9-232c4bb366af-107773",1,0,0,1,Cheshire
-"/job-search/restaurant-1418@51.1763255,-1.7591256/wiltshire/crew-member/pdx-mc-b74ae015-1f48-4911-a666-d3c4e02ee860-77692",1,1,0,0,Wiltshire
 "/job-search/restaurant-1472@51.2139584,-1.4750546/hampshire/crew-member/pdx-mc-b74ae015-1f48-4911-a666-d3c4e02ee860-77694",1,1,0,0,Hampshire
 "/job-search/restaurant-471@50.918785,-1.4285055/hampshire/crew-member/pdx-mc-b74ae015-1f48-4911-a666-d3c4e02ee860-79655",1,1,0,0,Hampshire
 "/job-search/restaurant-1472@51.2139584,-1.4750546/hampshire/customer-care/pdx-mc-fad35844-2b83-4373-8645-d4a24c7b1022-77694",1,1,0,0,Hampshire
 "/job-search/restaurant-1605@51.0481321,-2.4253193/somerset/customer-care/pdx-mc-fad35844-2b83-4373-8645-d4a24c7b1022-77696",1,1,0,0,Somerset
 "/job-search/restaurant-1605@51.0481321,-2.4253193/somerset/maintenance-person/pdx-mc-6eed0d04-8a9e-4006-97c1-5c19c30e168b-77696",1,1,0,0,Somerset
 "/job-search/restaurant-1399@51.2129579,-1.5190683/hampshire/overnight-crew-member/pdx-mc-7ec8b550-b83a-4411-9eb6-88cf12a7b3bf-77693",1,1,0,0,Hampshire
-"/job-search/restaurant-1578@53.7979558,-1.5462897/leeds/crew-member/pdx-mc-1c1cd003-d527-4730-b126-525c5e4b278c-82907",1,0,1,0,Leeds
-"/job-search/restaurant-989@53.7935854,-1.5481938/west-yorkshire/crew-member/pdx-mc-a287e036-c53d-4c69-b367-394404944f1f-82903",1,0,1,0,West Yorkshire
 "/job-search/restaurant-854@55.8198338,-4.0405886/lanarkshire/crew-member/pdx-mc-232d1869-4f8d-4238-81b0-f90ba0853092-77701",1,1,0,0,Lanarkshire
 "/job-search/restaurant-854@55.8198338,-4.0405886/lanarkshire/customer-care/pdx-mc-99968e8f-9965-4b44-9965-421364e01479-77701",1,1,0,0,Lanarkshire
 "/job-search/restaurant-453@55.8605082,-4.0199552/lanarkshire/customer-care/pdx-mc-99968e8f-9965-4b44-9965-421364e01479-77702",1,1,0,0,Lanarkshire
@@ -717,7 +730,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-822@50.8420974,-0.7561649/west-sussex/work-experience/pdx-mc-7a09594a-0bb6-4ada-aac5-2ee0f27f0f97-81389",1,0,0,1,West Sussex
 "/job-search/restaurant-1608@50.8681685,-0.1239169/east-sussex/crew-member/pdx-mc-10cc0666-9cd8-4922-b8ee-2b87f7faa9a5-77717",1,0,1,0,East Sussex
 "/job-search/restaurant-1346@55.035914,-1.6246448/tyne-wear/overnight-crew-member/pdx-mc-46500714-49cc-4c1e-9b05-723f0c0a0224-77724",1,1,0,0,Tyne & Wear
-"/job-search/restaurant-1425@54.5400644,-1.290228/stockton-on-tees/crew-member/pdx-mc-f0a0bdd5-7db1-47ff-9521-f885a4181d37-107776",1,1,0,0,Stockton On Tees
 "/job-search/restaurant-1192@54.5736292,-1.2239766/teesside/customer-care/pdx-mc-2f06bbd9-f632-4bcd-a718-5e3cae62eb74-77726",1,1,0,0,Teesside
 "/job-search/restaurant-1425@54.5400644,-1.290228/stockton-on-tees/customer-care/pdx-mc-2f06bbd9-f632-4bcd-a718-5e3cae62eb74-107776",1,1,0,0,Stockton On Tees
 "/job-search/restaurant-1192@54.5736292,-1.2239766/teesside/work-experience/pdx-mc-5a573c49-364a-442a-aa4b-06a8ca5b9383-77726",1,0,0,1,Teesside
@@ -747,10 +759,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-473@54.5946101,-5.8088523/county-down/customer-care/pdx-mc-a0ee7d00-a97b-4a99-9b9c-530f0599a6dc-77839",1,1,0,0,County Down
 "/job-search/restaurant-1573@51.4766525,-2.5389001/avon/work-experience/pdx-mc-b85493bc-79af-48bb-a479-8b89c9c710af-77840",1,0,0,1,Avon
 "/job-search/restaurant-1741@51.5059086,-2.4877795/avon/maintenance-person/pdx-mc-e01442a2-7878-476d-81fb-c1013c40613f-83557",1,1,0,0,Avon
-"/job-search/restaurant-1573@51.4766525,-2.5389001/avon/crew-member/pdx-mc-557950a9-f932-4a7b-a237-471df9667ca5-77840",1,1,0,0,Avon
-"/job-search/restaurant-1741@51.5059086,-2.4877795/avon/crew-member/pdx-mc-557950a9-f932-4a7b-a237-471df9667ca5-83557",1,1,0,0,Avon
 "/job-search/restaurant-533@51.4483614,-2.5605116/avon/customer-care/pdx-mc-a693faa6-2c24-4fb7-aaa1-677f182777ef-123101",1,1,0,0,Avon
-"/job-search/restaurant-1741@51.5059086,-2.4877795/avon/crew-member/pdx-mc-b180cb94-a0cd-4e70-b7a5-2bf9c3bc4cbc-83557",1,1,0,0,Avon
 "/job-search/restaurant-1741@51.5059086,-2.4877795/avon/customer-care/pdx-mc-3a842b5f-f685-4239-a6c1-51c68fc10433-83557",1,1,0,0,Avon
 "/job-search/restaurant-1576@57.582431,-3.8590546/nairn/crew-member/pdx-mc-2188dd92-e9e2-47ad-8dd1-7ddbac9d6ee5-77841",1,0,1,0,Nairn
 "/job-search/restaurant-670@56.8221404,-5.1058348/highland/crew-member/pdx-mc-2188dd92-e9e2-47ad-8dd1-7ddbac9d6ee5-118203",1,1,0,0,Highland
@@ -765,9 +774,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1493@57.4700177,-4.1892847/scotland/customer-care/pdx-mc-112348fb-49c1-4d8a-b291-b2d257a496e7-118204",1,0,1,0,Scotland
 "/job-search/restaurant-722@51.509837,-0.3549224/london/work-experience/pdx-mc-baeaacd2-b16c-4a76-b3de-90ab1e482897-77842",1,0,0,1,London
 "/job-search/restaurant-1188@51.7970467,-0.0385663/hertfordshire/crew-member/pdx-mc-b2f82e1d-8585-4406-af90-07143cefc8e6-82392",1,1,0,0,Hertfordshire
-"/job-search/restaurant-1709@52.1468568,-0.4853428/bedfordshire/crew-member/pdx-mc-b2f82e1d-8585-4406-af90-07143cefc8e6-109150",1,1,0,0,Bedfordshire
 "/job-search/restaurant-1153@52.014611,-0.202528/hertfordshire/crew-member/pdx-mc-b2f82e1d-8585-4406-af90-07143cefc8e6-109155",1,0,1,0,Hertfordshire
-"/job-search/restaurant-1709@52.1468568,-0.4853428/bedfordshire/customer-care/pdx-mc-c5a8b0bc-39c5-4b17-b277-383af86d5629-109150",1,1,0,0,Bedfordshire
 "/job-search/restaurant-1558@52.0748583,-0.2409841/bedfordshire/overnight-crew-member/pdx-mc-4d91638f-3036-48d2-8fb0-ee1110ec69f6-109152",1,1,0,0,Bedfordshire
 "/job-search/restaurant-1532@51.9790215,-0.2084917/hertfordshire/customer-care/pdx-mc-74c4ad50-b815-4f0f-8a3a-96294c3bef6c-109153",1,1,0,0,Hertfordshire
 "/job-search/restaurant-1558@52.0748583,-0.2409841/bedfordshire/overnight-crew-member/pdx-mc-56f162f4-aa97-4fff-92dd-190fe73d9151-109152",1,0,1,0,Bedfordshire
@@ -775,13 +782,13 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-572@54.684158,-1.213424/teesside/crew-member/pdx-mc-c715b058-8efd-40fc-98a6-9d517ecec916-77966",1,1,0,0,Teesside
 "/job-search/restaurant-974@54.8782184,-1.3617574/tyne-wear/crew-member/pdx-mc-c715b058-8efd-40fc-98a6-9d517ecec916-77968",1,1,0,0,Tyne & Wear
 "/job-search/restaurant-1186@54.9065209,-1.5023558/tyne-wear/crew-member/pdx-mc-c715b058-8efd-40fc-98a6-9d517ecec916-77970",1,1,0,0,Tyne & Wear
+"/job-search/restaurant-417@54.8994691,-1.531122/tyne-wear/crew-member/pdx-mc-c715b058-8efd-40fc-98a6-9d517ecec916-77971",1,1,0,0,Tyne & Wear
 "/job-search/restaurant-560@54.9186302,-1.4332179/tyne-wear/crew-member/pdx-mc-c715b058-8efd-40fc-98a6-9d517ecec916-77972",1,1,0,0,Tyne & Wear
 "/job-search/restaurant-560@54.9186302,-1.4332179/tyne-wear/crew-member/pdx-mc-a09233ab-3aab-4619-bb3b-66ccbd1b22b7-77972",1,0,1,0,Tyne & Wear
 "/job-search/restaurant-647@53.7685794,-1.7478794/west-yorkshire/crew-member/pdx-mc-b6559791-6574-487a-ad75-98c550c6ea7b-78046",1,0,1,0,West Yorkshire
 "/job-search/restaurant-401@53.7951356,-1.6215926/west-yorkshire/crew-member/pdx-mc-b6559791-6574-487a-ad75-98c550c6ea7b-78047",1,1,0,0,West Yorkshire
 "/job-search/restaurant-647@53.7685794,-1.7478794/west-yorkshire/customer-care/pdx-mc-fa46f6e3-bbad-4514-a353-98faee4bee38-78046",1,0,1,0,West Yorkshire
 "/job-search/restaurant-401@53.7951356,-1.6215926/west-yorkshire/overnight-crew-member/pdx-mc-50ab6f44-f92b-4ed6-85f9-65ac000df960-78047",1,1,0,0,West Yorkshire
-"/job-search/restaurant-930@53.7976433,-1.7843484/west-yorkshire/overnight-crew-member/pdx-mc-50ab6f44-f92b-4ed6-85f9-65ac000df960-78048",1,1,0,0,West Yorkshire
 "/job-search/restaurant-647@53.7685794,-1.7478794/west-yorkshire/work-experience/pdx-mc-b6af5aea-41ee-4b2c-bf3b-9310a480f588-78046",1,0,0,1,West Yorkshire
 "/job-search/restaurant-401@53.7951356,-1.6215926/west-yorkshire/work-experience/pdx-mc-b6af5aea-41ee-4b2c-bf3b-9310a480f588-78047",1,0,0,1,West Yorkshire
 "/job-search/restaurant-930@53.7976433,-1.7843484/west-yorkshire/work-experience/pdx-mc-b6af5aea-41ee-4b2c-bf3b-9310a480f588-78048",1,0,0,1,West Yorkshire
@@ -789,7 +796,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-945@51.7155874,-0.2789862/hertfordshire/crew-member/pdx-mc-02c70cd8-e0fd-4642-8f1a-c15deb9d2351-78052",1,1,0,0,Hertfordshire
 "/job-search/restaurant-1339@51.4409262,-1.0603871/berkshire/crew-member/pdx-mc-02c70cd8-e0fd-4642-8f1a-c15deb9d2351-78057",1,0,1,0,Berkshire
 "/job-search/restaurant-279@51.6923061,-0.3859728/hertfordshire/crew-member/pdx-mc-02c70cd8-e0fd-4642-8f1a-c15deb9d2351-78059",1,0,1,0,Hertfordshire
-"/job-search/restaurant-1564@51.7625922,-0.2294098/hertfordshire/crew-member/pdx-mc-02c70cd8-e0fd-4642-8f1a-c15deb9d2351-78060",1,0,1,0,Hertfordshire
 "/job-search/restaurant-980@51.4536968,-0.9707129/berkshire/crew-member/pdx-mc-02c70cd8-e0fd-4642-8f1a-c15deb9d2351-78065",1,1,0,0,Berkshire
 "/job-search/restaurant-698@51.8995387,-0.2087241/hertfordshire/crew-member/pdx-mc-02c70cd8-e0fd-4642-8f1a-c15deb9d2351-78092",1,0,1,0,Hertfordshire
 "/job-search/restaurant-545@51.8943445,-0.1983745/hertfordshire/crew-member/pdx-mc-02c70cd8-e0fd-4642-8f1a-c15deb9d2351-78093",1,1,0,0,Hertfordshire
@@ -880,12 +886,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1673@51.5075725,-0.2212054/london/crew-member/pdx-mc-98715e84-8d37-456a-bf3f-5b30d4b9a641-78426",1,1,0,0,London
 "/job-search/restaurant-500@51.5090581,-0.1980604/london/crew-member/pdx-mc-98715e84-8d37-456a-bf3f-5b30d4b9a641-107101",1,1,0,0,London
 "/job-search/restaurant-182@51.4590674,-2.5871682/avon/maintenance-person/pdx-mc-5cbb212f-ac40-4d95-98fe-70fd07037cf0-78385",1,0,1,0,Avon
-"/job-search/restaurant-562@51.529258,-2.5979823/bristol/maintenance-person/pdx-mc-5cbb212f-ac40-4d95-98fe-70fd07037cf0-78391",1,1,0,0,Bristol
-"/job-search/restaurant-182@51.4590674,-2.5871682/avon/customer-care/pdx-mc-52d970f5-1f89-47c6-a1f2-2764468e000b-78385",1,1,0,0,Avon
-"/job-search/restaurant-428@54.5991129,-5.9300597/northern-ireland/crew-member/pdx-mc-6c0863e6-1d38-410f-b6f2-5378f77c7e1f-78395",1,1,0,0,Northern Ireland
-"/job-search/restaurant-428@54.5991129,-5.9300597/northern-ireland/customer-care/pdx-mc-dc273f2e-74a1-446a-84e1-3421698b5f39-78395",1,0,1,0,Northern Ireland
 "/job-search/restaurant-740@54.5963178,-5.8917007/county-antrim/customer-care/pdx-mc-dc273f2e-74a1-446a-84e1-3421698b5f39-78396",1,1,0,0,County Antrim
-"/job-search/restaurant-1674@54.6090608,-5.968657/northern-ireland/crew-member/pdx-mc-3d9325dd-451f-4974-9845-6ecf492dae9c-78424",1,0,1,0,Northern Ireland
 "/job-search/restaurant-927@53.2842265,-3.5780913/conwy/crew-member/pdx-mc-df9fe0c5-ec53-4463-839b-924748f30f8d-78397",1,1,0,0,Conwy
 "/job-search/restaurant-927@53.2842265,-3.5780913/conwy/customer-care/pdx-mc-86be85c2-7984-4b97-b9cc-96cbf78c597f-78397",1,1,0,0,Conwy
 "/job-search/restaurant-24@51.4057916,0.0145064/kent/crew-member/pdx-mc-4cf02ef7-6eab-4764-9be1-92dff72cf299-78414",1,1,0,0,Kent
@@ -903,14 +904,14 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-7027@53.3499889,-6.2647379/dublin/crew-member/pdx-mc-a1ff49b5-e5f8-41f4-9621-121174afb499-78704",1,1,0,0,Dublin
 "/job-search/restaurant-7050@53.3487589,-6.2663014/dublin/crew-member/pdx-mc-a1ff49b5-e5f8-41f4-9621-121174afb499-78706",1,1,0,0,Dublin
 "/job-search/restaurant-7043@52.9463937,-7.7979071/tipperary/crew-member/pdx-mc-a1ff49b5-e5f8-41f4-9621-121174afb499-80291",1,1,0,0,Tipperary
-"/job-search/restaurant-7047@53.2733642,-7.4851841/offaly/crew-member/pdx-mc-a1ff49b5-e5f8-41f4-9621-121174afb499-80292",1,1,0,0,Offaly
 "/job-search/restaurant-7050@53.3487589,-6.2663014/dublin/overnight-crew-member/pdx-mc-08e7a8e8-9441-4e20-b8fb-3803767c2f83-78706",1,1,0,0,Dublin
 "/job-search/restaurant-7027@53.3499889,-6.2647379/dublin/crew-member/pdx-mc-65f05658-c23a-47c4-8208-2d673564dfd0-78704",1,1,0,0,Dublin
 "/job-search/restaurant-7119@53.020228,-6.8220661/kilcullen/crew-member/pdx-mc-65f05658-c23a-47c4-8208-2d673564dfd0-78705",1,1,0,0,Kilcullen
+"/job-search/restaurant-7093@51.872682,-8.4721374/cork/crew-member/pdx-mc-9ae82d4d-de9e-4daa-8814-71b6909c3f69-78709",1,1,0,0,Cork
 "/job-search/restaurant-7092@51.8892817,-8.5854138/cork/crew-member/pdx-mc-e0603588-c623-45ce-9ad0-0c9cfb0892b7-78716",1,1,0,0,Cork
-"/job-search/restaurant-7023@51.8987389,-8.4756893/cork/crew-member/pdx-mc-e0603588-c623-45ce-9ad0-0c9cfb0892b7-78760",1,1,0,0,Cork
 "/job-search/restaurant-7082@52.5521466,-7.8573536/tipperary/crew-member/pdx-mc-e0603588-c623-45ce-9ad0-0c9cfb0892b7-78875",1,1,0,0,Tipperary
 "/job-search/restaurant-7076@52.0931186,-7.6295995/waterford/crew-member/pdx-mc-e0603588-c623-45ce-9ad0-0c9cfb0892b7-78876",1,1,0,0,Waterford
+"/job-search/restaurant-7105@52.1412935,-8.2629296/fermoy/crew-member/pdx-mc-e0603588-c623-45ce-9ad0-0c9cfb0892b7-78877",1,1,0,0,Fermoy
 "/job-search/restaurant-7089@52.6551837,-7.2341082/kilkenny/crew-member/pdx-mc-e0603588-c623-45ce-9ad0-0c9cfb0892b7-78878",1,1,0,0,Kilkenny
 "/job-search/restaurant-7082@52.5521466,-7.8573536/tipperary/customer-care/pdx-mc-dae4f893-8495-4950-9f69-f319b0392788-78875",1,1,0,0,Tipperary
 "/job-search/restaurant-7082@52.5521466,-7.8573536/tipperary/customer-experience-leader/pdx-mc-49e95a85-b59e-4a8d-9328-0ff93cf1dc26-78875",1,1,0,0,Tipperary
@@ -931,6 +932,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-7078@52.8582196,-8.9827543/clare/crew-member/pdx-mc-064fab3f-1490-4d83-aa91-3c3a725efa30-82243",1,1,0,0,Clare
 "/job-search/restaurant-7075@52.6692833,-8.6615948/limerick/crew-member/pdx-mc-064fab3f-1490-4d83-aa91-3c3a725efa30-82245",1,1,0,0,Limerick
 "/job-search/restaurant-7066@53.2756529,-9.0766737/galway/crew-member/pdx-mc-064fab3f-1490-4d83-aa91-3c3a725efa30-82248",1,1,0,0,Galway
+"/job-search/restaurant-7009@53.2729449,-9.0526434/galway/overnight-crew-member/pdx-mc-6cb6fe60-053c-4069-a246-a7515f489a44-82247",1,1,0,0,Galway
 "/job-search/restaurant-7074@53.3551829,-6.4602563/co-dublin/crew-member/pdx-mc-8c6dd139-b709-40ab-ac8a-eefec92ec3cb-109737",1,1,0,0,Co Dublin
 "/job-search/restaurant-7013@53.3836804,-6.2149494/dublin/crew-member/pdx-mc-8c6dd139-b709-40ab-ac8a-eefec92ec3cb-109739",1,1,0,0,Dublin
 "/job-search/restaurant-7090@53.2511189,-6.1846563/dublin/crew-member/pdx-mc-8c6dd139-b709-40ab-ac8a-eefec92ec3cb-109740",1,1,0,0,Dublin
@@ -980,7 +982,6 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-817@51.127115,0.8961455/kent/maintenance-person/pdx-mc-6916a7fb-8ade-40a3-a9ad-4786e32809e1-107257",1,1,0,0,Kent
 "/job-search/restaurant-817@51.127115,0.8961455/kent/work-experience/pdx-mc-280ec05a-c8b4-470f-aa42-93cd7139dfdd-107257",1,0,0,1,Kent
 "/job-search/restaurant-1360@51.1608431,0.8733457/ashford/overnight-crew-member/pdx-mc-95676479-161d-422e-bbe7-f5d4993fd892-82127",1,1,0,0,Ashford
-"/job-search/restaurant-36@51.3340494,-0.2655005/surrey/crew-member/pdx-mc-2143c15d-f401-4434-830c-7188da8b1b4e-107504",1,1,0,0,Surrey
 "/job-search/restaurant-2268@51.2413598,-0.1960493/surrey/crew-member/pdx-mc-2143c15d-f401-4434-830c-7188da8b1b4e-115927",1,1,0,0,Surrey
 "/job-search/restaurant-2268@51.2413598,-0.1960493/surrey/overnight-crew-member/pdx-mc-4c289dee-7440-47b1-b2b0-68dcb9c13139-115927",1,1,0,0,Surrey
 "/job-search/restaurant-1551@57.0635562,-2.1361948/aberdeenshire/crew-member/pdx-mc-7ab49982-1f9b-4730-a39c-6eabed4f8a88-82945",1,0,1,0,Aberdeenshire
@@ -1003,15 +1004,15 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1603@52.903721,-1.1247983/nottinghamshire/customer-care/pdx-mc-1486455f-4532-477e-9586-b987fca41d66-121786",1,1,0,0,Nottinghamshire
 "/job-search/restaurant-1290@55.8066096,-4.2335313/glasgow/overnight-crew-member/pdx-mc-d09a00f3-914c-40ab-b36b-6b53f14deae2-119016",1,1,0,0,Glasgow
 "/job-search/restaurant-536@55.4677208,-4.6125453/south-ayrshire/crew-member/pdx-mc-1308dafc-0ef5-4961-a56f-183ce0cca196-119015",1,1,0,0,South Ayrshire
-"/job-search/restaurant-1366@55.7792346,-4.1632896/scotland/work-experience/pdx-mc-0f48f56b-4298-49b1-80cb-f340bdf44ac6-97751",1,0,0,1,Scotland
 "/job-search/restaurant-536@55.4677208,-4.6125453/south-ayrshire/work-experience/pdx-mc-0f48f56b-4298-49b1-80cb-f340bdf44ac6-119015",1,0,0,1,South Ayrshire
-"/job-search/restaurant-1290@55.8066096,-4.2335313/glasgow/work-experience/pdx-mc-0f48f56b-4298-49b1-80cb-f340bdf44ac6-119016",1,0,0,1,Glasgow
 "/job-search/restaurant-1287@55.6468003,-4.7369675/north-ayrshire/work-experience/pdx-mc-0f48f56b-4298-49b1-80cb-f340bdf44ac6-119017",1,0,0,1,North Ayrshire
 "/job-search/restaurant-431@51.1318579,-2.9998698/somerset/crew-member/pdx-mc-944a34f5-bab8-4690-af63-bc113424afd4-120885",1,1,0,0,Somerset
 "/job-search/restaurant-1726@51.2296204,-2.9596851/somerset/work-experience/pdx-mc-9530e0cf-542a-455b-81b3-7663698f3bd9-99654",1,0,0,1,Somerset
 "/job-search/restaurant-1677@51.1624288,-2.9875/taunton/work-experience/pdx-mc-9530e0cf-542a-455b-81b3-7663698f3bd9-120884",1,0,0,1,Taunton
 "/job-search/restaurant-431@51.1318579,-2.9998698/somerset/work-experience/pdx-mc-9530e0cf-542a-455b-81b3-7663698f3bd9-120885",1,0,0,1,Somerset
 "/job-search/restaurant-269@51.3473201,-2.9778118/somerset/work-experience/pdx-mc-9530e0cf-542a-455b-81b3-7663698f3bd9-120886",1,0,0,1,Somerset
+"/job-search/restaurant-490@51.1588843,-0.1567447/west-sussex/crew-member/pdx-mc-8e114f13-6731-4ec2-9cdf-e4b38d9c8bf9-105828",1,1,0,0,West Sussex
+"/job-search/restaurant-1713@51.132503,-0.1687673/west-sussex/crew-member/pdx-mc-8e114f13-6731-4ec2-9cdf-e4b38d9c8bf9-106166",1,1,0,0,West Sussex
 "/job-search/restaurant-73@51.114102,-0.187127/west-sussex/crew-member/pdx-mc-8e114f13-6731-4ec2-9cdf-e4b38d9c8bf9-121134",1,1,0,0,West Sussex
 "/job-search/restaurant-1585@57.6916054,-2.0261238/aberdeenshire/crew-member/pdx-mc-1c9baa0b-ce44-416a-990b-3582cd459b0b-105947",1,1,0,0,Aberdeenshire
 "/job-search/restaurant-990@57.4872233,-1.8060553/aberdeenshire/crew-member/pdx-mc-1c9baa0b-ce44-416a-990b-3582cd459b0b-105948",1,1,0,0,Aberdeenshire
@@ -1029,10 +1030,10 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-864@51.776322,-3.2069675/gwent/customer-care/pdx-mc-f04db146-bbac-461b-bddb-356c55723d8e-106251",1,1,0,0,Gwent
 "/job-search/restaurant-1497@51.8140853,-3.0247044/monmouthshire/customer-care/pdx-mc-f04db146-bbac-461b-bddb-356c55723d8e-123492",1,1,0,0,Monmouthshire
 "/job-search/restaurant-896@50.7772135,-3.999461/devon/crew-member/pdx-mc-c9fa9bed-0672-473b-8b1e-cf4b7edeb7c2-109559",1,0,1,0,Devon
-"/job-search/restaurant-460@50.3713173,-4.1399123/devon/crew-member/pdx-mc-c9fa9bed-0672-473b-8b1e-cf4b7edeb7c2-120304",1,1,0,0,Devon
 "/job-search/restaurant-776@50.3715273,-4.1461215/devon/customer-care/pdx-mc-1cb4c9ec-1daa-4f23-9998-1d4c0c991b9d-120305",1,1,0,0,Devon
 "/job-search/restaurant-776@50.3715273,-4.1461215/devon/overnight-crew-member/pdx-mc-f1669351-abf6-4c0e-bff2-cd4fabe8d558-120305",1,1,0,0,Devon
 "/job-search/restaurant-149@51.3860472,-0.4190663/surrey/crew-member/pdx-mc-39a4805a-4357-4875-bb9c-3eba23e32767-111539",1,1,0,0,Surrey
+"/job-search/restaurant-1589@51.2360987,-0.5768155/surrey/overnight-crew-member/pdx-mc-6ca7435f-ad43-4089-b188-cb0c0b6164b4-107826",1,1,0,0,Surrey
 "/job-search/restaurant-1589@51.2360987,-0.5768155/surrey/work-experience/pdx-mc-68dd8fe6-34ac-43aa-b85d-7d96cbc4424e-107826",1,0,0,1,Surrey
 "/job-search/restaurant-692@51.237062,-0.5763533/surrey/work-experience/pdx-mc-68dd8fe6-34ac-43aa-b85d-7d96cbc4424e-111538",1,0,0,1,Surrey
 "/job-search/restaurant-149@51.3860472,-0.4190663/surrey/crew-member/pdx-mc-4142f59a-1653-44a4-871c-166bc213b1f1-111539",1,1,0,0,Surrey
@@ -1060,6 +1061,7 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-953@51.3472932,-1.3400097/berkshire/tothill-services-crew-member/pdx-mc-44237eec-7245-40fa-916c-3b5e947d2e4f-121137",1,1,0,0,Berkshire
 "/job-search/restaurant-1197@53.655112,-2.628418/lancashire/crew-member/pdx-mc-3484517b-7673-4f85-b653-ef683af1b2ed-116278",1,0,1,0,Lancashire
 "/job-search/restaurant-402@55.8390538,-4.2665419/glasgow/customer-care/pdx-mc-1ea6fd5a-20f0-4f41-8c84-e2d5ab8c5172-119025",1,1,0,0,Glasgow
+"/job-search/restaurant-402@55.8390538,-4.2665419/glasgow/overnight-crew-member/pdx-mc-541f692e-198a-4c6c-b2e5-7cde502566e4-119025",1,1,0,0,Glasgow
 "/job-search/restaurant-1170@50.2000706,-5.3909443/cornwall/work-experience/pdx-mc-187d0897-3efe-479b-8646-1fdfbd0b8c65-118350",1,0,0,1,Cornwall
 "/job-search/restaurant-1700@51.0703947,-1.2940187/hampshire/crew-member/pdx-mc-0bd5a104-f823-43a7-8f8b-4f3e12bc9cc9-118513",1,1,0,0,Hampshire
 "/job-search/restaurant-1700@51.0703947,-1.2940187/hampshire/shift-leader/pdx-mc-c864dffb-75f8-4b9a-944f-22969fb4b7f4-118513",1,1,0,0,Hampshire
@@ -1068,6 +1070,8 @@ jd_url,value,full_time,part_time,missing_contract_type,town_city
 "/job-search/restaurant-1571@52.8061858,-0.6123524/grantham/customer-care/pdx-mc-63bbb5cb-ca7a-4700-8056-fed9021f38c8-121152",1,1,0,0,Grantham
 "/job-search/restaurant-1571@52.8061858,-0.6123524/grantham/shift-leader/pdx-mc-1ea2085b-83a7-490b-ba38-8bcf25cc381f-121152",1,1,0,0,Grantham
 "/job-search/restaurant-1496@52.9676609,-1.1835842/nottinghamshire/crew-member/pdx-mc-7a72889f-ea4a-4861-b884-5c752559a862-124112",1,1,0,0,Nottinghamshire
+/job-search/corporate-careers/london/mcdonalds-progressive-young-farmer-programme/5150-en-gb,1,0,0,0,London
 /job-search/corporate-careers/london/supervisor-service-management/3856-en-gb,1,0,0,0,London
 /job-search/corporate-careers/london/manager-project-management/4301-en-us,1,0,0,0,London
-/job-search/corporate-careers/london/mcdonalds-progressive-young-farmer-programme/5150-en-gb,1,0,0,0,London
+/job-search/corporate-careers/london/sr-manager-cyber-defense/5108-en-gb,1,0,0,0,London
+/job-search/corporate-careers/london/sr-manager-solution-readiness/5443-en-us,1,0,0,0,London
